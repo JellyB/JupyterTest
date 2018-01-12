@@ -63,11 +63,13 @@ class DBHelper:
             print(values)
             sql = 'SELECT COUNT(*) FROM %s WHERE 1=1 AND %s' % (table, values)
             print(sql)
-            result = self.__cur.execute(sql)
-            if result > 0:
+            self.__cur.execute(sql)
+            results = self.__cur.fetchall();
+            if results[0][0] > 0:
                 return True
             else:
                 return False
+
         except pymysql.Error as e:
             print('查询失败！', traceback.print_exc())
             return False
