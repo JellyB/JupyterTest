@@ -1,0 +1,7351 @@
+None
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 133, in book_detail
+    str(item[1]), "html.parser").find("a").text).replace("\n", "").strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+None
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 133, in book_detail
+    str(item[1]), "html.parser").find("a").text).replace("\n", "").strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+None
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 133, in book_detail
+    str(item[1]), "html.parser").find("a").text).replace("\n", "").strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+books ================================================
+[<li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/3259440/" onclick="moreurl(this,{i:'0',query:'',subject_id:'3259440',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s4610502.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/3259440/" onclick="moreurl(this,{i:'0',query:'',subject_id:'3259440',from:'book_subject_search'})" title="白夜行">
+
+    白夜行
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [日] 东野圭吾 / 刘姿君 / 南海出版公司 / 2008-9 / 29.80元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.1</span>
+<span class="pl">
+        (201692人评价)
+    </span>
+</div>
+<p>“只希望能手牵手在太阳下散步”，这个象征故事内核的绝望念想，有如一个美丽的幌子，随着无数凌乱、压抑、悲凉的故事片段像纪录片一样一一还原：没有痴痴相思，没有海... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/3006581/" onclick="moreurl(this,{i:'1',query:'',subject_id:'3006581',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s2962510.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/3006581/" onclick="moreurl(this,{i:'1',query:'',subject_id:'3006581',from:'book_subject_search'})" title="无人生还">
+
+    无人生还
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [英] 阿加莎・克里斯蒂 / 祁阿红 / 人民文学出版社 / 2008-3 / 19.00
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.9</span>
+<span class="pl">
+        (36047人评价)
+    </span>
+</div>
+<p>十个互不相识的人，被富有的欧文先生邀请到了印地安岛上的私人别墅里。晚餐后，一个神秘的声音揭开了人们心中所各自隐藏着的可怕秘密。当天晚上，年轻的马斯顿先生离奇... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/3211779/" onclick="moreurl(this,{i:'2',query:'',subject_id:'3211779',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s3254244.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/3211779/" onclick="moreurl(this,{i:'2',query:'',subject_id:'3211779',from:'book_subject_search'})" title="嫌疑人X的献身">
+
+    嫌疑人X的献身
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [日] 东野圭吾 / 刘子倩 / 南海出版公司 / 2008-9 / 28.00
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.9</span>
+<span class="pl">
+        (154691人评价)
+    </span>
+</div>
+<p>百年一遇的数学天才石神，每天唯一的乐趣，便是去固定的便当店买午餐，只为看一眼在便当店做事的邻居靖子。
+靖子与女儿相依为命，失手杀了前来纠缠的前夫。石神提出由... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/405202/?dcs=tag-buylink&amp;dcm=douban&amp;dct=3211779" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/5038409/" onclick="moreurl(this,{i:'3',query:'',subject_id:'5038409',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s4444885.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/5038409/" onclick="moreurl(this,{i:'3',query:'',subject_id:'5038409',from:'book_subject_search'})" title="金色梦乡">
+
+    金色梦乡
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [日] 伊坂幸太郎 / 李彦桦 / 译林出版社 / 2010-9 / 35.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.0</span>
+<span class="pl">
+        (11990人评价)
+    </span>
+</div>
+<p>平凡的送貨員──青柳雅春和多年不見的老友森田森吾偶遇，卻突然被告知首相即將被暗殺，而青柳則是兇手！還一頭霧水的青柳，早已成為警方不擇手段要緝捕的對象，更慘的... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1827374/" onclick="moreurl(this,{i:'4',query:'',subject_id:'1827374',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s1765799.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1827374/" onclick="moreurl(this,{i:'4',query:'',subject_id:'1827374',from:'book_subject_search'})" title="东方快车谋杀案">
+
+    东方快车谋杀案
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [英] 阿加莎·克里斯蒂 / 陈尧光 / 人民文学出版社 / 2006-5 / 18.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.0</span>
+<span class="pl">
+        (39645人评价)
+    </span>
+</div>
+<p>午夜过后，一场大雪迫使东方快车停了下来。这辆豪华列车整年都处于满员状态。但那天早上却发现少了一名乘客。一个美国人死在了他的包厢里，他被刺了十二刀，可他包厢的... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/27042830/" onclick="moreurl(this,{i:'5',query:'',subject_id:'27042830',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s29450044.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/27042830/" onclick="moreurl(this,{i:'5',query:'',subject_id:'27042830',from:'book_subject_search'})" title="幽灵">
+
+    幽灵
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [挪] 尤·奈斯博 / 林立仁 / 湖南文艺出版社 / 2017-6-10 / 42.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.7</span>
+<span class="pl">
+        (1402人评价)
+    </span>
+</div>
+<p>▶ 两个孤独少年 × 一位孤勇警探，如父如子的亲情，失而复得的挚爱，触不可及的未来
+▶全球销量突破3300万册，北欧悬疑小说天王尤•奈斯博《猎豹》之后再创销... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/27042830/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/37128328/?dcs=tag-buylink&amp;dcm=douban&amp;dct=27042830" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26892080/" onclick="moreurl(this,{i:'6',query:'',subject_id:'26892080',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s29105309.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26892080/" onclick="moreurl(this,{i:'6',query:'',subject_id:'26892080',from:'book_subject_search'})" title="猎豹">
+
+    猎豹
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [挪] 尤·奈斯博 / 林立仁 / 湖南文艺出版社/博集天卷 / 2016-11-1 / 58.00元（全两册）
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.6</span>
+<span class="pl">
+        (3958人评价)
+    </span>
+</div>
+<p>恨与爱是一个铜板的两面，一切都始于爱……
+一个满身缺点的迷人英雄 × 一个藏身暗处的疯狂猎手
+作品全球销量突破2500万册、北欧犯罪小说天王尤•奈斯博《雪人... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/26892080/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/29711216/?dcs=tag-buylink&amp;dcm=douban&amp;dct=26892080" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/3646172/" onclick="moreurl(this,{i:'7',query:'',subject_id:'3646172',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s3814606.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/3646172/" onclick="moreurl(this,{i:'7',query:'',subject_id:'3646172',from:'book_subject_search'})" title="恶意">
+
+    恶意
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [日] 东野圭吾 / 娄美莲 / 南海出版公司 / 2009-6 / 18.00
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.4</span>
+<span class="pl">
+        (72932人评价)
+    </span>
+</div>
+<p>畅销书作家在出国的前一晚于家中被杀。凶手很快落网，对罪行供认不讳、但求速死，却对作案动机语焉不详。
+他当真是罪犯？他究竟为何杀人？
+在彻查被害人与凶手的过去... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/3836566/" onclick="moreurl(this,{i:'8',query:'',subject_id:'3836566',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s4215409.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/3836566/" onclick="moreurl(this,{i:'8',query:'',subject_id:'3836566',from:'book_subject_search'})" title="玫瑰的名字">
+
+    玫瑰的名字
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [意] 翁贝托·埃科 / 沈萼梅、刘锡荣 / 上海译文出版社 / 2010-03 / 33.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.6</span>
+<span class="pl">
+        (6060人评价)
+    </span>
+</div>
+<p>“玫瑰的名字”是中世纪用来表明含有象征意义的词汇，故事亦以一所中世纪修道院为背景。原本就已被异端的怀疑和僧侣的个人私欲弄得乌烟瘴气的寺院，却又发生了一连串离... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/3836566/buylinks">
+        纸质版 50.00 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26265745/" onclick="moreurl(this,{i:'9',query:'',subject_id:'26265745',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s27956707.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26265745/" onclick="moreurl(this,{i:'9',query:'',subject_id:'26265745',from:'book_subject_search'})" title="清明上河图密码">
+
+    清明上河图密码
+
+
+
+      <span style="font-size:12px;"> : 隐藏在千古名画中的阴谋与杀局 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  冶文彪 / 北京联合出版公司 / 2015-1-1 / 49.90元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.2</span>
+<span class="pl">
+        (6411人评价)
+    </span>
+</div>
+<p>全图824位人物，每个人都有名有姓，佯装、埋伏在舟船车轿、酒肆楼阁中。看似太平盛世，其实杀机四伏。翻开本书，在小贩的叫卖声中，金、辽、西夏、高丽等国的间谍、... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/26265745/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/8028142/?dcs=tag-buylink&amp;dcm=douban&amp;dct=26265745" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26729776/" onclick="moreurl(this,{i:'10',query:'',subject_id:'26729776',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s28608362.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26729776/" onclick="moreurl(this,{i:'10',query:'',subject_id:'26729776',from:'book_subject_search'})" title="雪人">
+
+    雪人
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [挪威] 尤·奈斯博 / 林立仁 / 湖南文艺出版社 / 2016-4 / 39.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.1</span>
+<span class="pl">
+        (9038人评价)
+    </span>
+</div>
+<p>初雪的夜晚，小男孩从噩梦中醒来，惊觉妈妈不见踪影，院子里凭空出现一个不知是谁堆起的雪人。他当圣诞礼物送给妈妈的粉色围巾，就围在雪人的脖子上，一排由黑色卵石组... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/26729776/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/22324619/?dcs=tag-buylink&amp;dcm=douban&amp;dct=26729776" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26356515/" onclick="moreurl(this,{i:'11',query:'',subject_id:'26356515',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s28813569.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26356515/" onclick="moreurl(this,{i:'11',query:'',subject_id:'26356515',from:'book_subject_search'})" title="S.">
+
+    S.
+
+
+
+      <span style="font-size:12px;"> : 忒修斯之船 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  [美] J.J.艾布拉姆斯、[美] 道格·道斯特 / 颜湘如 / 中信出版集团 / 2016-6-6 / 168.00 元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">7.9</span>
+<span class="pl">
+        (3163人评价)
+    </span>
+</div>
+<p>文豪身份 扑朔迷离
+她在图书馆拾获一本《忒修斯之船》，作者石察卡身份成谜，据译者柯岱拉描述，他尚未写完便人间蒸发，生死未卜，留给世人一宗悬案。有人用铅笔写下... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/26356515/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26923390/" onclick="moreurl(this,{i:'12',query:'',subject_id:'26923390',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s29179365.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26923390/" onclick="moreurl(this,{i:'12',query:'',subject_id:'26923390',from:'book_subject_search'})" title="长夜难明">
+
+    长夜难明
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  紫金陈 / 云南人民出版社 / 2017-1 / 42.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.6</span>
+<span class="pl">
+        (4959人评价)
+    </span>
+</div>
+<p>国内原创推理大神 紫金陈，高智商犯罪” “推理之王”系列后，心血新作
+嫌疑人杀人抛尸，却因意外在大庭广众之下被当场抓获。现场至少有几百个目击证人，嫌疑人对整... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/26923390/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/38154696/?dcs=tag-buylink&amp;dcm=douban&amp;dct=26923390" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1040211/" onclick="moreurl(this,{i:'13',query:'',subject_id:'1040211',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s1229240.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1040211/" onclick="moreurl(this,{i:'13',query:'',subject_id:'1040211',from:'book_subject_search'})" title="福尔摩斯探案全集（上中下）">
+
+    福尔摩斯探案全集（上中下）
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [英] 阿·柯南道尔 / 丁钟华 等 / 群众出版社 / 1981-8 / 53.00元/68.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.2</span>
+<span class="pl">
+        (49206人评价)
+    </span>
+</div>
+<p>最经典的群众出版社的翻译版本，一经出版，立即风靡成千上万的中国人。离奇的情节，扣人的悬念，世界上最聪明的侦探，人间最诡秘的案情，福尔摩斯不但让罪犯无处藏身，... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/1040211/buylinks">
+        纸质版 93.10 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/3112726/" onclick="moreurl(this,{i:'14',query:'',subject_id:'3112726',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s3140807.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/3112726/" onclick="moreurl(this,{i:'14',query:'',subject_id:'3112726',from:'book_subject_search'})" title="希腊棺材之谜">
+
+    希腊棺材之谜
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [美] 埃勒里·奎因 / 王敬之 / 新星出版社 / 2008-6 / 30.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.4</span>
+<span class="pl">
+        (6416人评价)
+    </span>
+</div>
+<p>一位著名艺术商去世，遗嘱却离奇失踪。埃勒里·奎因介入调查，发现其背后蕴藏着更大的阴谋…… </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/4074636/" onclick="moreurl(this,{i:'15',query:'',subject_id:'4074636',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s4066862.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/4074636/" onclick="moreurl(this,{i:'15',query:'',subject_id:'4074636',from:'book_subject_search'})" title="放学后">
+
+    放学后
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [日]东野圭吾 / 赵峻 / 南海出版公司 / 2010-1 / 20.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">7.6</span>
+<span class="pl">
+        (77645人评价)
+    </span>
+</div>
+<p>东野圭吾成名作
+荣获第31届江户川乱步奖
+草长莺飞的青春，忽如琉璃般生生粉碎。
+当美丽、纯粹、真实的事物被破坏，重视的回忆和梦想被摧毁时，恨意便开始萌发，恣... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/4074636/buylinks">
+        纸质版 28.00 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26797395/" onclick="moreurl(this,{i:'16',query:'',subject_id:'26797395',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s28913821.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26797395/" onclick="moreurl(this,{i:'16',query:'',subject_id:'26797395',from:'book_subject_search'})" title="夏日启示录">
+
+    夏日启示录
+
+
+
+      <span style="font-size:12px;"> : 罗什福尔家杀人事件 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  [日] 笠井洁 / 简之 / 新星出版社 / 2016-8 / 45.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">7.8</span>
+<span class="pl">
+        (783人评价)
+    </span>
+</div>
+<p>巴黎，炎夏。塞纳河畔枪声响过，警督之女娜迪亚与日本青年矢吹驱遭到了不明身份者的狙击。随之而来的是一封恐吓信，警告他们远离清洁派的秘宝，否则“启示录的愤怒”就... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/26797395/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/27031877/" onclick="moreurl(this,{i:'17',query:'',subject_id:'27031877',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s29498372.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/27031877/" onclick="moreurl(this,{i:'17',query:'',subject_id:'27031877',from:'book_subject_search'})" title="明镜之书">
+
+    明镜之书
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [罗] 尤金·欧·切洛维茨 / 张畅、袁子奇 / 中信出版社 / 2017-7 / 42.80元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">7.7</span>
+<span class="pl">
+        (352人评价)
+    </span>
+</div>
+<p>1987年12月23日凌晨，心理学明星教授韦德在家中被残忍杀害了。
+和他关系最密切的三个人被逐一调查——得意门生劳拉、图书室整理员弗林以及因报恩而常年往来的... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/27031877/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/36677188/?dcs=tag-buylink&amp;dcm=douban&amp;dct=27031877" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/2297697/" onclick="moreurl(this,{i:'18',query:'',subject_id:'2297697',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s2756239.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/2297697/" onclick="moreurl(this,{i:'18',query:'',subject_id:'2297697',from:'book_subject_search'})" title="ZOO">
+
+    ZOO
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [日] 乙一 / 李颖秋 / 当代世界出版社 / 2007-10 / 20.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.6</span>
+<span class="pl">
+        (24781人评价)
+    </span>
+</div>
+<p>每天早上都有一张我女朋友尸体的照片放到我的收件箱里，照片显示着女朋友的尸体正在一天天地生蛆、腐化。她是在我们去过动物园之后失踪的。所有人都认为她只是失踪了，... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/2297697/buylinks">
+        纸质版 13.30 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26865025/" onclick="moreurl(this,{i:'19',query:'',subject_id:'26865025',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s29383726.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26865025/" onclick="moreurl(this,{i:'19',query:'',subject_id:'26865025',from:'book_subject_search'})" title="半落">
+
+    半落
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [日] 横山秀夫 / 王维幸 / 百花文艺出版社 / 2017-3 / 39.5
+
+      </div>
+<div class="star clearfix">
+<span class="allstar35"></span>
+<span class="rating_nums">7.2</span>
+<span class="pl">
+        (1014人评价)
+    </span>
+</div>
+<p>“谁是真凶”模式走投无路之时，两本对时代产生了巨大影响的书，拯救了日本推理小说：一是东野圭吾的《恶意》，一是横山秀夫的《半落》
+·
+审讯好比读书，嫌疑人就是... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/26865025/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>]
+******************
+ 白夜行
+******************
+白夜行
+{"msgCode":"1","isSuccess":"true"}
+******************
+ And Then There Were None
+******************
+无人生还
+{"msgCode":"1","isSuccess":"true"}
+******************
+ 容疑者Xの献身
+******************
+嫌疑人X的献身
+{"msgCode":"1","isSuccess":"true"}
+******************
+ ゴールデンスランバー
+******************
+金色梦乡
+{"msgCode":"1","isSuccess":"true"}
+******************
+ Murder on the Orient Express
+******************
+东方快车谋杀案
+{"msgCode":"1","isSuccess":"true"}
+******************
+ Gjenferd
+******************
+幽灵
+{"msgCode":"1","isSuccess":"true"}
+******************
+ Panserhjert
+******************
+猎豹
+{"msgCode":"1","isSuccess":"true"}
+******************
+ 悪意
+******************
+恶意
+{"msgCode":"1","isSuccess":"true"}
+******************
+ Il nome della rosa
+******************
+玫瑰的名字
+{"msgCode":"1","isSuccess":"true"}
+清明上河图密码
+{"msgCode":"1","isSuccess":"true"}
+******************
+ Snømannen
+******************
+雪人
+{"msgCode":"1","isSuccess":"true"}
+None
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 133, in book_detail
+    str(item[1]), "html.parser").find("a").text).replace("\n", "").strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+长夜难明
+{"msgCode":"1","isSuccess":"true"}
+福尔摩斯探案全集（上中下）
+{"msgCode":"1","isSuccess":"true"}
+******************
+ The Egyptian Cross Mystery
+******************
+希腊棺材之谜
+{"msgCode":"1","isSuccess":"true"}
+******************
+ はうかご
+******************
+放学后
+{"msgCode":"1","isSuccess":"true"}
+******************
+ サマー·アポカリプス
+******************
+夏日启示录
+{"msgCode":"1","isSuccess":"true"}
+None
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 133, in book_detail
+    str(item[1]), "html.parser").find("a").text).replace("\n", "").strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+ZOO
+{"msgCode":"1","isSuccess":"true"}
+******************
+ 半落ち
+******************
+半落
+{"msgCode":"1","isSuccess":"true"}
+books ================================================
+[<li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26602392/" onclick="moreurl(this,{i:'0',query:'',subject_id:'26602392',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s28369176.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26602392/" onclick="moreurl(this,{i:'0',query:'',subject_id:'26602392',from:'book_subject_search'})" title="你今天真好看">
+
+    你今天真好看
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [美]莉兹•克里莫 / 周高逸 / 雅众文化/天津人民出版社 / 2015-8 / 39.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.7</span>
+<span class="pl">
+        (16489人评价)
+    </span>
+</div>
+<p>《你今天真好看》是一本清新暖萌的漫画集，收录了莉兹•克里莫150多张逗趣漫画。书中集结了所有你能想到的各种萌物，恐龙、棕熊、兔子、企鹅，甚至还有伞蜥、獾、土... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/26602392/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/20824273/?dcs=tag-buylink&amp;dcm=douban&amp;dct=26602392" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26755503/" onclick="moreurl(this,{i:'1',query:'',subject_id:'26755503',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s29009243.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26755503/" onclick="moreurl(this,{i:'1',query:'',subject_id:'26755503',from:'book_subject_search'})" title="我可以咬一口吗">
+
+    我可以咬一口吗
+
+
+
+      <span style="font-size:12px;"> : A Collection of Comics About Friendship </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  [美] 莉兹·克里莫 / 周高逸 / 天津人民出版社 / 2016-4 / 39.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.8</span>
+<span class="pl">
+        (7870人评价)
+    </span>
+</div>
+<p>《我可以咬一口吗》是美国漫画家莉兹•克里莫继《你今天真好看》之后的又一本清新暖萌的漫画集，收录了莉兹•克里莫一百多张逗趣漫画。书中集结了所有你能想到的各种萌... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/26755503/buylinks">
+        纸质版 24.60 元起
+      </a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/20943182/?dcs=tag-buylink&amp;dcm=douban&amp;dct=26755503" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/25960141/" onclick="moreurl(this,{i:'2',query:'',subject_id:'25960141',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s27411953.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/25960141/" onclick="moreurl(this,{i:'2',query:'',subject_id:'25960141',from:'book_subject_search'})" title="地图（人文版）">
+
+    地图（人文版）
+
+
+
+      <span style="font-size:12px;"> : 手绘世界地图 · 儿童百科绘本 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  (波兰)亚历山德拉·米热林斯卡、丹尼尔·米热林斯基 著 / 贵州人民出版社 / 2014-8-1 / 98.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.1</span>
+<span class="pl">
+        (1164人评价)
+    </span>
+</div>
+<p>★世界各国广泛引进：美国、英国、法国、比利时、荷兰、德国、俄罗斯、意大利、挪威、立陶宛、芬兰、冰岛、日本、乌克兰、韩国、澳大利亚等。
+★荣获多国重要奖项。如... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/25960141/buylinks">
+        纸质版 65.90 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1346815/" onclick="moreurl(this,{i:'3',query:'',subject_id:'1346815',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s7059163.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1346815/" onclick="moreurl(this,{i:'3',query:'',subject_id:'1346815',from:'book_subject_search'})" title="一個人住第5年">
+
+    一個人住第5年
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  高木直子 / 洪俞君 / 大田 / 2004-12-1 / NT$220
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.4</span>
+<span class="pl">
+        (34882人评价)
+    </span>
+</div>
+<p>一個人住了五年的過來人的日常生活。一個人的生活輕鬆也寂寞，卻又難割捨。
+作者利用可愛的圖畫搭配生活化的文字描寫一個人住的生活點滴，只要你曾經一個人住過，一定... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/25373041/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1257365/" onclick="moreurl(this,{i:'4',query:'',subject_id:'1257365',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s1673084.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1257365/" onclick="moreurl(this,{i:'4',query:'',subject_id:'1257365',from:'book_subject_search'})" title="活了100万次的猫">
+
+    活了100万次的猫
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  佐野洋子 / 唐亚明 / 接力出版社 / 2004-10 / 28.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.9</span>
+<span class="pl">
+        (10240人评价)
+    </span>
+</div>
+<p>有一只100万年也不死的猫，其实它死了100万次，又活了100万次。是一只漂亮的虎皮花猫。有100万个人宠爱过它，有100万个人在它死的时候哭过，可是它连一... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/1257365/buylinks">
+        纸质版 22.40 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26662689/" onclick="moreurl(this,{i:'5',query:'',subject_id:'26662689',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s28345162.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26662689/" onclick="moreurl(this,{i:'5',query:'',subject_id:'26662689',from:'book_subject_search'})" title="画的秘密">
+
+    画的秘密
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [法] 马克-安托万·马修 / 贾梦 / 北京联合出版公司·后浪出版公司 / 2016-1 / 60.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.7</span>
+<span class="pl">
+        (1171人评价)
+    </span>
+</div>
+<p>荣获瑞士谢尔漫画节最佳作品奖
+欧洲漫画界最具实验性的概念型奇才、两届安古兰国际漫画节奖项得主马克-安托万·马修情感悬疑之作
+堪比卡夫卡的诡异荒诞，兼具大卫·... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/26662689/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1066462/" onclick="moreurl(this,{i:'6',query:'',subject_id:'1066462',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s1557610.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1066462/" onclick="moreurl(this,{i:'6',query:'',subject_id:'1066462',from:'book_subject_search'})" title="向左走·向右走">
+
+    向左走·向右走
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  幾米 / 生活·读书·新知三联书店 / 2002-8 / 16.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.4</span>
+<span class="pl">
+        (71296人评价)
+    </span>
+</div>
+<p>“她习惯向左走，他习惯向右走，他们始终不曾相遇。”《向左走·向右走》是几米首次表现男女感情的长篇图文创作。男女主角彼此在生活中的巧妙关系，构成了整个故事的设... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1433640/" onclick="moreurl(this,{i:'7',query:'',subject_id:'1433640',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s24549957.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1433640/" onclick="moreurl(this,{i:'7',query:'',subject_id:'1433640',from:'book_subject_search'})" title="猜猜我有多爱你">
+
+    猜猜我有多爱你
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [英] 山姆·麦克布雷尼 文、安妮塔·婕朗 图 / 梅子涵 / 少年儿童出版社 / 2005-4 / 29.80元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.3</span>
+<span class="pl">
+        (9527人评价)
+    </span>
+</div>
+<p>孩子总喜欢和别人比较，在《猜猜我有多爱你》这本图画书中的小兔子就是个典型的例子。小兔子认真的告诉大兔子“我好爱你”，而大兔子回应小兔子说：“我更爱你！”如此... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/4714734/" onclick="moreurl(this,{i:'8',query:'',subject_id:'4714734',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s4219471.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/4714734/" onclick="moreurl(this,{i:'8',query:'',subject_id:'4714734',from:'book_subject_search'})" title="这些都是你给我的爱">
+
+    这些都是你给我的爱
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  文：安东尼、图：echo / 长江文艺出版社 / 2010-3 / 24.80元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.4</span>
+<span class="pl">
+        (44541人评价)
+    </span>
+</div>
+<p>《这些都是你给我的爱》讲述兔子男孩安东尼失恋后，为找寻曾经恋人一心向往的那棵“开满鲜花的树”，而环游旅行的故事。延续安东尼一贯深受读者青睐的无标点文字风格，... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/4714734/buylinks">
+        纸质版 16.10 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/25934300/" onclick="moreurl(this,{i:'9',query:'',subject_id:'25934300',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s27498509.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/25934300/" onclick="moreurl(this,{i:'9',query:'',subject_id:'25934300',from:'book_subject_search'})" title="塞拉菲尼抄本">
+
+    塞拉菲尼抄本
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [意] 鹿易吉·塞拉菲尼 / 张密 / 北京联合出版公司 / 2014-11 / 799.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.7</span>
+<span class="pl">
+        (943人评价)
+    </span>
+</div>
+<p>《塞拉菲尼抄本》创作于1976年至1978年，并于1981年首次出版。2014年上市的中国版，是全球第七种语言授权，参与了全球合印计划，由意大利原厂印刷，原... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/25934300/buylinks">
+        纸质版 579.30 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/27069925/" onclick="moreurl(this,{i:'10',query:'',subject_id:'27069925',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s29499792.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/27069925/" onclick="moreurl(this,{i:'10',query:'',subject_id:'27069925',from:'book_subject_search'})" title="不可思议的朋友">
+
+    不可思议的朋友
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [日] 田岛征彦 / 李秀芬 / 北京联合出版公司 / 2017-7 / 45.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.1</span>
+<span class="pl">
+        (803人评价)
+    </span>
+</div>
+<p>第20届日本绘本奖大奖作品
+改编自真实故事的自闭症题材绘本
+.....................
+※编辑推荐※
+★第20届日本绘本奖大奖作品，一部改编... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/27069925/buylinks">
+        纸质版 35.60 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/5366275/" onclick="moreurl(this,{i:'11',query:'',subject_id:'5366275',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s6380450.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/5366275/" onclick="moreurl(this,{i:'11',query:'',subject_id:'5366275',from:'book_subject_search'})" title="我怎样毁了我的一生">
+
+    我怎样毁了我的一生
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [法] 贝尔当·桑帝尼 文、[法] 贝尔当·哥地尼 图 / 武娟 / 生活·读书·新知三联书店 / 2011-1 / 29.80元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.4</span>
+<span class="pl">
+        (12282人评价)
+    </span>
+</div>
+<p>一个男人言简意赅描写了自己的人生，长大之前他英俊、应有尽有、从不寂寞，堪称上帝的宠儿，长大之后他丑陋、贫穷、虚伪，过着谎话连篇和庸俗不堪的生活，他是怎样毁了... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/2361768/" onclick="moreurl(this,{i:'12',query:'',subject_id:'2361768',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s3446498.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/2361768/" onclick="moreurl(this,{i:'12',query:'',subject_id:'2361768',from:'book_subject_search'})" title="爷爷变成了幽灵">
+
+    爷爷变成了幽灵
+
+
+
+      <span style="font-size:12px;"> : 海豚绘本花园系列 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  [丹麦]金·弗珀兹·艾克松/文、[瑞典]爱娃·艾瑞克松/图 / 彭懿 / 湖北美术出版社 / 2007-12 / 23.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.3</span>
+<span class="pl">
+        (8239人评价)
+    </span>
+</div>
+<p>《爷爷变成了幽灵》以平淡的语气表达浓浓的祖孙之情。书中朴实、淡彩的图画，不但感受不到死亡的可怕，反而从中找到了渲泻感情的出口。在感动之余，我们能感受到的是更... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/2361768/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26469245/" onclick="moreurl(this,{i:'13',query:'',subject_id:'26469245',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s28369589.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26469245/" onclick="moreurl(this,{i:'13',query:'',subject_id:'26469245',from:'book_subject_search'})" title="松风">
+
+    松风
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  早稻 / 中国水利水电出版社 / 2015-7-10 / 144元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar50"></span>
+<span class="rating_nums">9.6</span>
+<span class="pl">
+        (972人评价)
+    </span>
+</div>
+<p>本书收集了画家早稻从2013年至2015年期间的部分作品，也是早稻的第一本个人作品集。
+本作品以中国古代志怪小说和唐宋传奇为蓝本，讲述了一个在怪诞世界斩妖除... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26825522/" onclick="moreurl(this,{i:'14',query:'',subject_id:'26825522',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s28845900.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26825522/" onclick="moreurl(this,{i:'14',query:'',subject_id:'26825522',from:'book_subject_search'})" title="生活三部曲：生活的样子">
+
+    生活三部曲：生活的样子
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [法] 让-克劳德·弗洛克 / 周克希 / 北京联合出版公司·后浪出版公司 / 2016-7 / 60.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.8</span>
+<span class="pl">
+        (244人评价)
+    </span>
+</div>
+<p>不可错过的当代插画家弗洛克温情之作
+风行欧洲的“清晰线条”画风
+简单却耐人寻味的生活哲思
+...................
+※编辑推荐※
+☆ 简单、明... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/26825522/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1026035/" onclick="moreurl(this,{i:'15',query:'',subject_id:'1026035',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s2084206.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1026035/" onclick="moreurl(this,{i:'15',query:'',subject_id:'1026035',from:'book_subject_search'})" title="你看起来好像很好吃">
+
+    你看起来好像很好吃
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  宫西达也 / 杨文 / 北京少年儿童出版社 / 2004-06 / 32
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.1</span>
+<span class="pl">
+        (6595人评价)
+    </span>
+</div>
+<p>《你看起来好像很好吃》由北京少年儿童出版社出版。
+以前，以前，很久以前，在一个晴朗的日子里，山嘭嘭嘭地喷火，地咚咚咚地摇晃。就在这个时候，甲龙宝宝出生了。霸... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/6435810/" onclick="moreurl(this,{i:'16',query:'',subject_id:'6435810',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s9090896.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/6435810/" onclick="moreurl(this,{i:'16',query:'',subject_id:'6435810',from:'book_subject_search'})" title="Yaxin, le faune Gabriel">
+
+    Yaxin, le faune Gabriel
+
+
+
+      <span style="font-size:12px;"> : Canto 1 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  Manuel Arenas、Dimitri Vey / Éd. Soleil / 2010-10-22 / EUR 19.99
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.3</span>
+<span class="pl">
+        (31人评价)
+    </span>
+</div>
+<p>Génie de l'animation, Manuel Arenas s'est associé à Dimitri Vey, brillant écri... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/25775445/" onclick="moreurl(this,{i:'17',query:'',subject_id:'25775445',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s27146411.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/25775445/" onclick="moreurl(this,{i:'17',query:'',subject_id:'25775445',from:'book_subject_search'})" title="睡不着">
+
+    睡不着
+
+
+
+      <span style="font-size:12px;"> : Tango一日一画 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  Tango / 中信出版社 / 2014-1-1 / 32.00
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.9</span>
+<span class="pl">
+        (3601人评价)
+    </span>
+</div>
+<p>除了音乐和文字，还有什么能让你感到轻松喜悦，嘴角上扬的？
+新浪微博红人TANGO三年来夜夜一幅幽默画，陪伴无数睡不着的人度过无眠之夜。
+源源不断的创意和坚持... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/25775445/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/9598885/?dcs=tag-buylink&amp;dcm=douban&amp;dct=25775445" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26376603/" onclick="moreurl(this,{i:'18',query:'',subject_id:'26376603',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s28070243.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26376603/" onclick="moreurl(this,{i:'18',query:'',subject_id:'26376603',from:'book_subject_search'})" title="秘密花园">
+
+    秘密花园
+
+
+
+      <span style="font-size:12px;"> : 一本探索奇境的手绘涂色书 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  [英] 乔汉娜·贝斯福 / 北京联合出版公司 / 2015-6 / 42.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.0</span>
+<span class="pl">
+        (6071人评价)
+    </span>
+</div>
+<p>欢迎来到秘密花园！
+在这个笔墨编织出的美丽世界中漫步吧
+涂上你喜爱的颜色，为花园带来生机和活力
+发现隐藏其中的各类小生物，与它们共舞
+激活创造力，描绘那些未... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/26376603/buylinks">
+        纸质版 31.50 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/3554154/" onclick="moreurl(this,{i:'19',query:'',subject_id:'3554154',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s3721175.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/3554154/" onclick="moreurl(this,{i:'19',query:'',subject_id:'3554154',from:'book_subject_search'})" title="阿狸·梦之城堡">
+
+    阿狸·梦之城堡
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  hans / 上海锦绣文章出版社 / 2009-1 / 36.80元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.0</span>
+<span class="pl">
+        (23829人评价)
+    </span>
+</div>
+<p>阿狸童话绘本为纯手绘创作，画风成熟稳定，颜色精美靓丽。阿狸绘本的文字脚本立足于挖掘人们内心深处的柔软与坚强，围绕亲情、爱情、友情主题，风格温暖，有发人深省的... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/3554154/buylinks">
+        纸质版 23.90 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>]
+******************
+ The Little World of Liz Climo
+******************
+你今天真好看
+{"msgCode":"1","isSuccess":"true"}
+******************
+ Lobster is the Best Medicine
+******************
+我可以咬一口吗
+{"msgCode":"1","isSuccess":"true"}
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 133, in book_detail
+    str(item[1]), "html.parser").find("a").text).replace("\n", "").strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+None
+一個人住第5年
+{"msgCode":"1","isSuccess":"true"}
+活了100万次的猫
+{"msgCode":"1","isSuccess":"true"}
+******************
+ Le Dessin
+******************
+画的秘密
+{"msgCode":"1","isSuccess":"true"}
+向左走·向右走
+{"msgCode":"1","isSuccess":"true"}
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 133, in book_detail
+    str(item[1]), "html.parser").find("a").text).replace("\n", "").strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+None
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 133, in book_detail
+    str(item[1]), "html.parser").find("a").text).replace("\n", "").strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+None
+******************
+ Codex Seraphinianus
+******************
+塞拉菲尼抄本
+{"msgCode":"1","isSuccess":"true"}
+不可思议的朋友
+{"msgCode":"1","isSuccess":"true"}
+None
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 133, in book_detail
+    str(item[1]), "html.parser").find("a").text).replace("\n", "").strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 133, in book_detail
+    str(item[1]), "html.parser").find("a").text).replace("\n", "").strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+None
+Traceback (most recent call last):
+None
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 98, in book_detail
+    "class", "intro"})[1].findAll("p")
+IndexError: list index out of range
+None
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 133, in book_detail
+    str(item[1]), "html.parser").find("a").text).replace("\n", "").strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+None
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 98, in book_detail
+    "class", "intro"})[1].findAll("p")
+IndexError: list index out of range
+Traceback (most recent call last):
+None
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 133, in book_detail
+    str(item[1]), "html.parser").find("a").text).replace("\n", "").strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+睡不着
+{"msgCode":"1","isSuccess":"true"}
+******************
+ Secret Garden: An Inky Treasure Hunt and Coloring Book
+******************
+秘密花园
+{"msgCode":"1","isSuccess":"true"}
+阿狸·梦之城堡
+{"msgCode":"1","isSuccess":"true"}
+books ================================================
+[<li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1046265/" onclick="moreurl(this,{i:'0',query:'',subject_id:'1046265',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s1228930.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1046265/" onclick="moreurl(this,{i:'0',query:'',subject_id:'1046265',from:'book_subject_search'})" title="挪威的森林">
+
+    挪威的森林
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [日] 村上春树 / 林少华 / 上海译文出版社 / 2001-2 / 18.80元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.0</span>
+<span class="pl">
+        (190392人评价)
+    </span>
+</div>
+<p>这是一部动人心弦的、平缓舒雅的、略带感伤的恋爱小说。小说主人公渡边以第一人称展开他同两个女孩间的爱情纠葛。渡边的第一个恋人直子原是他高中要好同学木月的女友，... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/24754316/" onclick="moreurl(this,{i:'1',query:'',subject_id:'24754316',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s26720726.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/24754316/" onclick="moreurl(this,{i:'1',query:'',subject_id:'24754316',from:'book_subject_search'})" title="最好的我们">
+
+    最好的我们
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  八月长安 / 湖南文艺出版社 / 2013-8-5 / 55
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.8</span>
+<span class="pl">
+        (19906人评价)
+    </span>
+</div>
+<p>你总是说青春从不曾永远，而那时候的我们，就是最好的我们。
+这一次，我们和整个青春做告别。
+八月长安全新力作。
+你还记得高中时的同桌吗？那个少年有世界上最明朗... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/24754316/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/1641174/?dcs=tag-buylink&amp;dcm=douban&amp;dct=24754316" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/27046066/" onclick="moreurl(this,{i:'2',query:'',subject_id:'27046066',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s29462547.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/27046066/" onclick="moreurl(this,{i:'2',query:'',subject_id:'27046066',from:'book_subject_search'})" title="我口袋里的星辰如沙砾">
+
+    我口袋里的星辰如沙砾
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  韩松落 / 新经典文化/北京十月文艺出版社 / 2017-6 / 39.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.1</span>
+<span class="pl">
+        (191人评价)
+    </span>
+</div>
+<p>全书由50余篇散文组成，按时间脉络分为五个部分，描述了一个小城青年的成长历程。从昆仑山下的绿洲，到祁连山下的小城；从青翠的少年，到沧桑的中年；从最初的狂喜，... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/27046066/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26414020/" onclick="moreurl(this,{i:'3',query:'',subject_id:'26414020',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s28342099.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26414020/" onclick="moreurl(this,{i:'3',query:'',subject_id:'26414020',from:'book_subject_search'})" title="我不喜欢这世界，我只喜欢你">
+
+    我不喜欢这世界，我只喜欢你
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  乔一 / 湖南少年儿童出版社 / 2015-5-1 / 29.80元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.0</span>
+<span class="pl">
+        (25131人评价)
+    </span>
+</div>
+<p>◆暖！萌！甜！几乎每一段都令人笑出声来，但也不乏泪点。
+◆真实恋爱成长回忆录，最萌最暖のLove story。
+◆8张超萌爱心动全彩插图，随书赠送4张F君情... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/26414020/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/2250587/" onclick="moreurl(this,{i:'4',query:'',subject_id:'2250587',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s2732804.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/2250587/" onclick="moreurl(this,{i:'4',query:'',subject_id:'2250587',from:'book_subject_search'})" title="一个人的好天气">
+
+    一个人的好天气
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [日] 青山七惠 / 竺家荣 / 上海译文出版社 / 2007-9 / 15.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">7.6</span>
+<span class="pl">
+        (72050人评价)
+    </span>
+</div>
+<p>《一个人的好天气》描述了一个打零工的女孩如何与年长亲人相处，同时追寻自我、独立的故事，走向自立的一名女孩在工作、生活和恋爱中的种种际遇和心情令人揪心，小说写... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/2250587/buylinks">
+        纸质版 15.80 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1020459/" onclick="moreurl(this,{i:'5',query:'',subject_id:'1020459',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s1068707.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1020459/" onclick="moreurl(this,{i:'5',query:'',subject_id:'1020459',from:'book_subject_search'})" title="此间的少年">
+
+    此间的少年
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  江南 / 华文出版社 / 2004-1 / 25.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.4</span>
+<span class="pl">
+        (35798人评价)
+    </span>
+</div>
+<p>《此间的少年》讲述的是让人熟悉的大学生活的故事。小说以宋代嘉佑年为时间背景，地点在以北大为模版的“汴京大学”，登场的人物是乔峰、郭靖、令狐冲等大侠，不过在大... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/27064941/" onclick="moreurl(this,{i:'6',query:'',subject_id:'27064941',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s29470723.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/27064941/" onclick="moreurl(this,{i:'6',query:'',subject_id:'27064941',from:'book_subject_search'})" title="朝花惜时">
+
+    朝花惜时
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  左小翎、壳小杀 / 北京联合出版公司 / 2017-7-1 / 39.90元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.1</span>
+<span class="pl">
+        (160人评价)
+    </span>
+</div>
+<p>天真少女安可乐第一次来到大城市，在学校里结实了形形色色的新朋友：态度恶劣的后桌同学叶陵、心地善良却经常受到嫉妒和欺凌的校花文浅浅、曾经暗恋的学长白一然……还... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/27064941/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/25747921/" onclick="moreurl(this,{i:'7',query:'',subject_id:'25747921',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s27102925.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/25747921/" onclick="moreurl(this,{i:'7',query:'',subject_id:'25747921',from:'book_subject_search'})" title="从你的全世界路过">
+
+    从你的全世界路过
+
+
+
+      <span style="font-size:12px;"> : 让所有人心动的故事 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  张嘉佳 / 湖南文艺出版社 / 2013-11-1 / CNY 39.80
+
+      </div>
+<div class="star clearfix">
+<span class="allstar35"></span>
+<span class="rating_nums">7.1</span>
+<span class="pl">
+        (80648人评价)
+    </span>
+</div>
+<p>《从你的全世界路过》是微博上最会写故事的人张嘉佳献给你的心动故事。
+最初以“睡前故事”系列的名义在网上疯狂流传，几天内达到1,500,000 次转发，超4亿... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/25747921/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/6695662/?dcs=tag-buylink&amp;dcm=douban&amp;dct=25747921" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1143694/" onclick="moreurl(this,{i:'8',query:'',subject_id:'1143694',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s9853099.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1143694/" onclick="moreurl(this,{i:'8',query:'',subject_id:'1143694',from:'book_subject_search'})" title="动物凶猛">
+
+    动物凶猛
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  王朔 / 中国电影出版社 / 2004-2 / 15.5
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.3</span>
+<span class="pl">
+        (18259人评价)
+    </span>
+</div>
+<p>他们逃课、泡妞、打群架，他们由于“不必学习那些后来注定要忘掉的无用的知识”而使自身的动物本能获得了空前的解放； 他们深知自己的未来已被框定于固定的范畴之内，... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/3014576/" onclick="moreurl(this,{i:'9',query:'',subject_id:'3014576',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s2998096.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/3014576/" onclick="moreurl(this,{i:'9',query:'',subject_id:'3014576',from:'book_subject_search'})" title="陪安东尼度过漫长岁月">
+
+    陪安东尼度过漫长岁月
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  安东尼 / 长江文艺出版社 / 2008-3 / 18.00
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.3</span>
+<span class="pl">
+        (42646人评价)
+    </span>
+</div>
+<p>《陪安东尼度过漫长岁月》收集了作者安东尼在《最小说》上刊登过的部分散文，以及50%以上的最新作品。安东尼以一个普通男生的口吻，讲述了从20到23、从大学到工... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/4231381/" onclick="moreurl(this,{i:'10',query:'',subject_id:'4231381',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s4130990.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/4231381/" onclick="moreurl(this,{i:'10',query:'',subject_id:'4231381',from:'book_subject_search'})" title="那些回不去的年少时光">
+
+    那些回不去的年少时光
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  桐华 / 江苏文艺出版社 / 2010-01 / 23.80元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.5</span>
+<span class="pl">
+        (28789人评价)
+    </span>
+</div>
+<p>最值得珍藏的怀旧读物，写给年少自己的书，纪念我们共同的青春和成长
+您还记得上世纪最后十年的青春是怎样吗？那可是我们独一无二的成长！
+那些回不去的年少时光》以... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/4231381/buylinks">
+        纸质版 17.90 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/3194071/" onclick="moreurl(this,{i:'11',query:'',subject_id:'3194071',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s3251672.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/3194071/" onclick="moreurl(this,{i:'11',query:'',subject_id:'3194071',from:'book_subject_search'})" title="少年巴比伦">
+
+    少年巴比伦
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  路内 / 重庆出版社 / 2008-8 / 22.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.6</span>
+<span class="pl">
+        (6518人评价)
+    </span>
+</div>
+<p>上个世纪90年代的戴城，路小路在一家化工厂上班，他是个愣头青，不知道未来和生活目标在哪里。跟着一个叫“老牛逼”的师傅混，没学会半点技术。在机修班，除了拧螺丝... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26872990/" onclick="moreurl(this,{i:'12',query:'',subject_id:'26872990',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s29049325.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26872990/" onclick="moreurl(this,{i:'12',query:'',subject_id:'26872990',from:'book_subject_search'})" title="余生，请多指教">
+
+    余生，请多指教
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  柏林石匠 / 百花洲文艺出版社 / 2016-10 / 32.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar35"></span>
+<span class="rating_nums">7.2</span>
+<span class="pl">
+        (2037人评价)
+    </span>
+</div>
+<p>曾经以为，自己这辈子都等不到了——世界这么大，我又走得这么慢，要是遇不到良人要怎么办？
+早过了“全球三十几亿男人，中国七亿男人，天涯何处无芳草”的猖狂岁月，... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/26872990/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/36092661/?dcs=tag-buylink&amp;dcm=douban&amp;dct=26872990" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1461903/" onclick="moreurl(this,{i:'13',query:'',subject_id:'1461903',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s2529195.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1461903/" onclick="moreurl(this,{i:'13',query:'',subject_id:'1461903',from:'book_subject_search'})" title="何以笙箫默">
+
+    何以笙箫默
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  顾漫 / 朝华出版社 / 2007-4 / 15.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">7.8</span>
+<span class="pl">
+        (120169人评价)
+    </span>
+</div>
+<p>一段年少时的爱恋，牵出一生的纠缠。大学时代的赵默笙阳光灿烂，对法学系大才子何以琛一见倾心，开朗直率的她拔足倒追，终于使才气出众的他为她停留驻足。然而，不善表... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/4881998/" onclick="moreurl(this,{i:'14',query:'',subject_id:'4881998',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s6185561.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/4881998/" onclick="moreurl(this,{i:'14',query:'',subject_id:'4881998',from:'book_subject_search'})" title="猜火车">
+
+    猜火车
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [英] 欧文·威尔士 / 石一枫 / 重庆出版社 / 2010-7-1 / 29.80元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.4</span>
+<span class="pl">
+        (3670人评价)
+    </span>
+</div>
+<p>住在苏格兰爱丁堡附近没落小镇雷斯的年轻人，瑞顿、西蒙、丹尼和卑比，靠领取和诈骗救济金为生，生活中除了毒品，就是酒精、暴力和女人；生活周遭，不是失业者、在社会... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/2209098/" onclick="moreurl(this,{i:'15',query:'',subject_id:'2209098',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s2652662.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/2209098/" onclick="moreurl(this,{i:'15',query:'',subject_id:'2209098',from:'book_subject_search'})" title="致我们终将逝去的青春">
+
+    致我们终将逝去的青春
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  辛夷坞 / 朝华出版社 / 2007-8 / 25.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">7.8</span>
+<span class="pl">
+        (82002人评价)
+    </span>
+</div>
+<p>自喻为“玉面小飞龙”的郑微，洋溢着青春活力，心怀着对邻家哥哥林静浓浓的爱意，来到大学。可是当她联系林静的时候，却发现出国的林静并没有告诉她任何消息。生性豁达... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1049189/" onclick="moreurl(this,{i:'16',query:'',subject_id:'1049189',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s1302594.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1049189/" onclick="moreurl(this,{i:'16',query:'',subject_id:'1049189',from:'book_subject_search'})" title="1995-2005夏至未至">
+
+    1995-2005夏至未至
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  郭敬明 / 春风文艺出版社 / 2005-2 / 24.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar35"></span>
+<span class="rating_nums">7.3</span>
+<span class="pl">
+        (68879人评价)
+    </span>
+</div>
+<p>故事开始于一个虚构的城市浅川，一个深北方长满高大香樟的城市。几个年轻的人开始自己的高中生活，一切都似乎格外的平静和缓慢，带着夏日特有的让人昏昏欲睡的叙述情绪... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/3879301/" onclick="moreurl(this,{i:'17',query:'',subject_id:'3879301',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s10320248.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/3879301/" onclick="moreurl(this,{i:'17',query:'',subject_id:'3879301',from:'book_subject_search'})" title="微微一笑很倾城">
+
+    微微一笑很倾城
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  顾漫 / 江苏文艺出版社 / 2009-8 / 25.00
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.0</span>
+<span class="pl">
+        (79113人评价)
+    </span>
+</div>
+<p>如果你“惨”遭抛弃后，忽然有个很强很拽很不可一世的男人向你求婚，你怎么反应？
+贝微微同学的反应是：“大神……你被盗号了么＝ ＝”
+这个世界也太不真实了吧！
+... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/3879301/buylinks">
+        纸质版 10.80 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>]
+******************
+ ノルウェイの森
+******************
+挪威的森林
+{"msgCode":"1","isSuccess":"true"}
+******************
+ 流水混账
+******************
+最好的我们
+{"msgCode":"1","isSuccess":"true"}
+我口袋里的星辰如沙砾
+{"msgCode":"1","isSuccess":"true"}
+我不喜欢这世界，我只喜欢你
+{"msgCode":"1","isSuccess":"true"}
+******************
+ ひとり日和
+******************
+一个人的好天气
+{"msgCode":"1","isSuccess":"true"}
+此间的少年
+{"msgCode":"1","isSuccess":"true"}
+None
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 133, in book_detail
+    str(item[1]), "html.parser").find("a").text).replace("\n", "").strip()
+AttributeError: 'NoneType' object has no attribute 'text'
+从你的全世界路过
+{"msgCode":"1","isSuccess":"true"}
+动物凶猛
+{"msgCode":"1","isSuccess":"true"}
+陪安东尼度过漫长岁月
+{"msgCode":"1","isSuccess":"true"}
+那些回不去的年少时光
+{"msgCode":"1","isSuccess":"true"}
+少年巴比伦
+{"msgCode":"1","isSuccess":"true"}
+余生，请多指教
+{"msgCode":"1","isSuccess":"true"}
+何以笙箫默
+{"msgCode":"1","isSuccess":"true"}
+******************
+ Trainspotting
+******************
+猜火车
+{"msgCode":"1","isSuccess":"true"}
+致我们终将逝去的青春
+{"msgCode":"1","isSuccess":"true"}
+1995-2005夏至未至
+{"msgCode":"1","isSuccess":"true"}
+微微一笑很倾城
+{"msgCode":"1","isSuccess":"true"}
+books ================================================
+[<li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/2567698/" onclick="moreurl(this,{i:'0',query:'',subject_id:'2567698',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s2768378.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/2567698/" onclick="moreurl(this,{i:'0',query:'',subject_id:'2567698',from:'book_subject_search'})" title="三体">
+
+    三体
+
+
+
+      <span style="font-size:12px;"> : “地球往事”三部曲之一 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  刘慈欣 / 重庆出版社 / 2008-1 / 23.00
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.8</span>
+<span class="pl">
+        (156206人评价)
+    </span>
+</div>
+<p>文化大革命如火如荼进行的同时。军方探寻外星文明的绝秘计划“红岸工程”取得了突破性进展。但在按下发射键的那一刻，历经劫难的叶文洁没有意识到，她彻底改变了人类的... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/2567698/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/930946/?dcs=tag-buylink&amp;dcm=douban&amp;dct=2567698" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26295448/" onclick="moreurl(this,{i:'1',query:'',subject_id:'26295448',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s28033064.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26295448/" onclick="moreurl(this,{i:'1',query:'',subject_id:'26295448',from:'book_subject_search'})" title="你一生的故事">
+
+    你一生的故事
+
+
+
+      <span style="font-size:12px;"> : 特德·姜科幻小说集 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  [美] 特德·姜 / 李克勤、王荣生、姚向辉 / 译林出版社 / 2015-5 / 36.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.6</span>
+<span class="pl">
+        (10386人评价)
+    </span>
+</div>
+<p>一瞥之下，过去与未来轰轰然同时并至，
+我的意识成为长达半个世纪的灰烬，时间未至已成灰。
+五十年诸般纷纭并发眼底，我的余生尽在其中。
+还有，你的一生。
+《你一... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/26295448/buylinks">
+        纸质版 27.00 元起
+      </a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/27024730/?dcs=tag-buylink&amp;dcm=douban&amp;dct=26295448" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/25829693/" onclick="moreurl(this,{i:'2',query:'',subject_id:'25829693',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s27409671.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/25829693/" onclick="moreurl(this,{i:'2',query:'',subject_id:'25829693',from:'book_subject_search'})" title="永恒的终结">
+
+    永恒的终结
+
+
+
+      <span style="font-size:12px;"> : 关于时间旅行的终极奥秘和恢宏构想 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  [美] 艾萨克·阿西莫夫 / 崔正男 / 江苏文艺出版社 / 2014-9-1 / 32.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.0</span>
+<span class="pl">
+        (12571人评价)
+    </span>
+</div>
+<p>24世纪，人类发明了时间力场。27世纪，人类在掌握时间旅行技术后，成立了一个叫做永恒时空（Eternity）的组织，在每个时代的背后，默默地守护着人类社会的... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/25829693/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/7965034/?dcs=tag-buylink&amp;dcm=douban&amp;dct=25829693" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/5363767/" onclick="moreurl(this,{i:'3',query:'',subject_id:'5363767',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s26012674.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/5363767/" onclick="moreurl(this,{i:'3',query:'',subject_id:'5363767',from:'book_subject_search'})" title="三体Ⅲ">
+
+    三体Ⅲ
+
+
+
+      <span style="font-size:12px;"> : 死神永生 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  刘慈欣 / 重庆出版社 / 2010-11 / 38.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.2</span>
+<span class="pl">
+        (91583人评价)
+    </span>
+</div>
+<p>与三体文明的战争使人类第一次看到了宇宙黑暗的真相，地球文明像一个恐惧的孩子，熄灭了寻友的篝火，在暗夜中发抖。自以为历经沧桑，其实刚刚蹒跚学步；自以为悟出了生... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/5363767/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/935501/?dcs=tag-buylink&amp;dcm=douban&amp;dct=5363767" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/3066477/" onclick="moreurl(this,{i:'4',query:'',subject_id:'3066477',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s3078482.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/3066477/" onclick="moreurl(this,{i:'4',query:'',subject_id:'3066477',from:'book_subject_search'})" title="三体Ⅱ">
+
+    三体Ⅱ
+
+
+
+      <span style="font-size:12px;"> : 黑暗森林 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  刘慈欣 / 重庆出版社 / 2008-5 / 32.00
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.3</span>
+<span class="pl">
+        (92581人评价)
+    </span>
+</div>
+<p>三体人在利用魔法般的科技锁死了地球人的科学之后，庞大的宇宙舰队杀气腾腾地直扑太阳系，意欲清除地球文明。
+面对前所未有的危局，经历过无数磨难的地球人组建起同样... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/3066477/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/934186/?dcs=tag-buylink&amp;dcm=douban&amp;dct=3066477" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1394364/" onclick="moreurl(this,{i:'5',query:'',subject_id:'1394364',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s3696740.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1394364/" onclick="moreurl(this,{i:'5',query:'',subject_id:'1394364',from:'book_subject_search'})" title="银河系漫游指南">
+
+    银河系漫游指南
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [英] 道格拉斯·亚当斯 / 徐百柯 / 四川科学技术出版社 / 2005-6 / 16.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.8</span>
+<span class="pl">
+        (14445人评价)
+    </span>
+</div>
+<p>地球被毁灭了，因为要在它所在的地方修建一条超空间快速通道。主人公阿瑟·邓特活下来了，因为他有一位名叫福特·长官的朋友。这位朋友表面上是个找不着工作的演员，其... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/2130127/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1442869/" onclick="moreurl(this,{i:'6',query:'',subject_id:'1442869',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s10396186.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1442869/" onclick="moreurl(this,{i:'6',query:'',subject_id:'1442869',from:'book_subject_search'})" title="献给阿尔吉侬的花束">
+
+    献给阿尔吉侬的花束
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [美] 丹尼尔·凯斯 / 周月玲 / 辽宁教育出版社 / 2005-8 / 25.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.9</span>
+<span class="pl">
+        (5594人评价)
+    </span>
+</div>
+<p>这一本让人看了内心充满痛苦和温暖，让人微笑和伤感的书。戏剧性的故事，深刻和细腻的笔调是它无数次被搬上各国舞台和银幕的原因。
+故事讲述查理·高登由于先天弱智而... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1258490/" onclick="moreurl(this,{i:'7',query:'',subject_id:'1258490',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s1239326.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1258490/" onclick="moreurl(this,{i:'7',query:'',subject_id:'1258490',from:'book_subject_search'})" title="基地">
+
+    基地
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [美] 艾萨克·阿西莫夫 / 叶李华 / 天地出版社 / 2005-1 / 21.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.2</span>
+<span class="pl">
+        (11023人评价)
+    </span>
+</div>
+<p>向来，过去才是历史，昨天才是历史。阿西莫夫却与众不同，他的《基地》系列写的是“未来的历史”，是“遥远未来的历史”，是“明天的历史”！
+阿西莫夫这位“未来历史... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26586492/" onclick="moreurl(this,{i:'8',query:'',subject_id:'26586492',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s28315660.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26586492/" onclick="moreurl(this,{i:'8',query:'',subject_id:'26586492',from:'book_subject_search'})" title="火星救援">
+
+    火星救援
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [美] 安迪·威尔 / 陈灼 / 译林出版社 / 2015-10-1 / 38.00
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.9</span>
+<span class="pl">
+        (8963人评价)
+    </span>
+</div>
+<p>六天前，马克·沃特尼成为了第一批行走在火星上的人。如今，他也将成为第一个葬身火星的人。
+一场突如其来的风暴让阿瑞斯三船员被迫放弃任务。撤离过程中，沃特尼遭遇... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/26586492/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/15077436/?dcs=tag-buylink&amp;dcm=douban&amp;dct=26586492" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/25752955/" onclick="moreurl(this,{i:'9',query:'',subject_id:'25752955',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s27251177.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/25752955/" onclick="moreurl(this,{i:'9',query:'',subject_id:'25752955',from:'book_subject_search'})" title="来自新世界 （上下）">
+
+    来自新世界 （上下）
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [日] 贵志祐介 / 丁丁虫 / 上海译文出版社 / 2014-4 / 88.00
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.1</span>
+<span class="pl">
+        (3710人评价)
+    </span>
+</div>
+<p>“离开小町回头去看，有一件事我看得清清楚楚——我们的小町，很扭曲。
+为了维持小町的安定和秩序，不断杀害孩子们的小町，还能称之为人类的社会吗？人类从涂满鲜血的... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/25752955/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1481311/" onclick="moreurl(this,{i:'10',query:'',subject_id:'1481311',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s29295294.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1481311/" onclick="moreurl(this,{i:'10',query:'',subject_id:'1481311',from:'book_subject_search'})" title="沙丘">
+
+    沙丘
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [美] 弗兰克·赫伯特 / 顾备 / 四川科学技术出版社 / 2006-01 / 42.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.7</span>
+<span class="pl">
+        (3257人评价)
+    </span>
+</div>
+<p>弗兰克·赫伯特以精细入微的笔法创造了一个与地球截然不同的世界。行星阿拉吉斯。既是英勇豪迈、心计深沉的亚崔迪家族的领地，是阴鸷冷酷、顽强剽悍的弗瑞曼人的故乡，... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/2130127/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/2052049/" onclick="moreurl(this,{i:'11',query:'',subject_id:'2052049',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s2369996.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/2052049/" onclick="moreurl(this,{i:'11',query:'',subject_id:'2052049',from:'book_subject_search'})" title="海伯利安">
+
+    海伯利安
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [美] 丹·西蒙斯 / 潘振华、官善明、李懿 / 万卷出版公司 / 2007-5 / 35.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.0</span>
+<span class="pl">
+        (3895人评价)
+    </span>
+</div>
+<p>书名出自约翰·济慈的同名长诗Hyperion。这是一部著名的太空歌剧经典、一部最浩瀚壮美的星际史诗，充满着真实可信、面临艰难道德抉择的故事人物：末日将临，宇... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26264967/" onclick="moreurl(this,{i:'12',query:'',subject_id:'26264967',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s27882508.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26264967/" onclick="moreurl(this,{i:'12',query:'',subject_id:'26264967',from:'book_subject_search'})" title="神们自己">
+
+    神们自己
+
+
+
+      <span style="font-size:12px;"> : 关于平行宇宙的一切 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  [美] 艾萨克·阿西莫夫 / 崔正男 / 江苏凤凰文艺出版社 / 2014-12-1 / 39.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.4</span>
+<span class="pl">
+        (8964人评价)
+    </span>
+</div>
+<p>22世纪，地球可以和平行宇宙进行物质交换，从此拥有了源源不绝的能源。但是，只有几个人才知道危险的真相：地球上的一个无人信任的科学家、能源渐渐枯竭的星球上的一... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/26264967/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/7968820/?dcs=tag-buylink&amp;dcm=douban&amp;dct=26264967" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/24107596/" onclick="moreurl(this,{i:'13',query:'',subject_id:'24107596',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s26817921.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/24107596/" onclick="moreurl(this,{i:'13',query:'',subject_id:'24107596',from:'book_subject_search'})" title="神经漫游者">
+
+    神经漫游者
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [美] 威廉·吉布森 / Denovo / 江苏文艺出版社 / 2013-6 / 32.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.1</span>
+<span class="pl">
+        (3341人评价)
+    </span>
+</div>
+<p>“1923年以来100本最佳英文小说”之一
+“赛博朋克”圣经 • 史无前例的得奖记录：囊括雨果奖、星云奖、菲利普•迪克奖
+这就是催生了《黑客帝国》的那部小说... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/24107596/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/1210652/?dcs=tag-buylink&amp;dcm=douban&amp;dct=24107596" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1321790/" onclick="moreurl(this,{i:'14',query:'',subject_id:'1321790',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s2714545.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1321790/" onclick="moreurl(this,{i:'14',query:'',subject_id:'1321790',from:'book_subject_search'})" title="华氏451">
+
+    华氏451
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  （美）雷·布雷德伯利 / 竹苏敏 / 重庆出版社 / 2005-6 / 20.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.1</span>
+<span class="pl">
+        (1761人评价)
+    </span>
+</div>
+<p>《华氏451》是雷·布雷德伯利关于控制与对抗的代表作，有着多达五百万册的发行量，备受世人推崇。今天重读这部经典之作引起的共鸣，与作品50年前首次出版时造成的... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1192090/" onclick="moreurl(this,{i:'15',query:'',subject_id:'1192090',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s26040205.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1192090/" onclick="moreurl(this,{i:'15',query:'',subject_id:'1192090',from:'book_subject_search'})" title="球状闪电">
+
+    球状闪电
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  刘慈欣 / 四川科学技术出版社 / 2005-6 / 22.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.7</span>
+<span class="pl">
+        (27062人评价)
+    </span>
+</div>
+<p>在某个离奇的雨夜，一颗球状闪电闯进了少年的视野。它的啸叫低沉中透着尖利，像是一个鬼魂在太古的荒原上吹着埙。当鬼魂奏完乐曲，球状闪电在一瞬间将少年的父母化为灰... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/5363767/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26963322/" onclick="moreurl(this,{i:'16',query:'',subject_id:'26963322',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s29435410.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26963322/" onclick="moreurl(this,{i:'16',query:'',subject_id:'26963322',from:'book_subject_search'})" title="封闭式车库">
+
+    封闭式车库
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [法] 墨比斯 编绘 / 朱洁 / 后浪丨北京联合出版公司 / 2017-5 / 80.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.4</span>
+<span class="pl">
+        (299人评价)
+    </span>
+</div>
+<p>宫崎骏、费里尼、大友克洋
+极力推崇的法国漫画大师墨比斯的经典科幻杰作
+一部重塑读者世界观的迷幻巨著
+蕴含三个世界、无数次人生的太空哲学
+………………
+※编辑... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/26963322/buylinks">
+        纸质版 60.00 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26819481/" onclick="moreurl(this,{i:'17',query:'',subject_id:'26819481',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s29458364.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26819481/" onclick="moreurl(this,{i:'17',query:'',subject_id:'26819481',from:'book_subject_search'})" title="摩天楼">
+
+    摩天楼
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [英] J.G.巴拉德 / 陈醉、顾君、王卉 / 上海人民出版社 / 2017-6 / 45.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.1</span>
+<span class="pl">
+        (120人评价)
+    </span>
+</div>
+<p>实际上，这公寓大楼就是一座垂直的小城。莱恩望向四百码开外的那幢摩天楼。就在刚刚，发生了一场临时停电，7楼的灯全暗了。一片漆黑之中，已经有手电筒的光束在四处移... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/26819481/buylinks">
+        纸质版 35.50 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1440243/" onclick="moreurl(this,{i:'18',query:'',subject_id:'1440243',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s1707557.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1440243/" onclick="moreurl(this,{i:'18',query:'',subject_id:'1440243',from:'book_subject_search'})" title="索拉里斯星">
+
+    索拉里斯星
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [波] 斯坦尼斯拉夫·莱姆 / 陈春文 / 商务印书馆 / 2005-10 / 20.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.8</span>
+<span class="pl">
+        (1238人评价)
+    </span>
+</div>
+<p>小说以一个被神秘大洋覆盖的星球为背景，演绎了人类寻求知识和生死相爱的科学神话。莱姆笔下的神秘大洋似乎是有智慧的，能够物化人类头脑中的隐私和邪念。科学家们围绕... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/6518605/" onclick="moreurl(this,{i:'19',query:'',subject_id:'6518605',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s28357056.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/6518605/" onclick="moreurl(this,{i:'19',query:'',subject_id:'6518605',from:'book_subject_search'})" title="三体全集">
+
+    三体全集
+
+
+
+      <span style="font-size:12px;"> : 地球往事三部曲 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  刘慈欣 / 重庆出版社 / 2012-1-1 / 168.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.3</span>
+<span class="pl">
+        (5924人评价)
+    </span>
+</div>
+<p>三体三部曲 (《三体》《三体Ⅱ·黑暗森林》《三体Ⅲ·死神永生》) ，原名“地球往事三部曲”，是中国著名科幻作家刘慈欣的首个长篇系列，由科幻世界杂志社策划制作... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/5363767/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/958945/?dcs=tag-buylink&amp;dcm=douban&amp;dct=6518605" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>]
+三体
+{"msgCode":"1","isSuccess":"true"}
+******************
+ Stories of Your Life and Others
+******************
+你一生的故事
+{"msgCode":"1","isSuccess":"true"}
+******************
+ The End of Eternity
+******************
+永恒的终结
+{"msgCode":"1","isSuccess":"true"}
+三体Ⅲ
+{"msgCode":"1","isSuccess":"true"}
+三体Ⅱ
+{"msgCode":"1","isSuccess":"true"}
+******************
+ The Hitchhiker's Guide to the Galaxy
+******************
+银河系漫游指南
+{"msgCode":"1","isSuccess":"true"}
+******************
+ Flowers for Algernon
+******************
+献给阿尔吉侬的花束
+{"msgCode":"1","isSuccess":"true"}
+******************
+ Foundation
+******************
+基地
+{"msgCode":"1","isSuccess":"true"}
+******************
+ The Martian
+******************
+火星救援
+{"msgCode":"1","isSuccess":"true"}
+******************
+ 新世界より
+******************
+来自新世界 （上下）
+{"msgCode":"1","isSuccess":"true"}
+******************
+ Dune
+******************
+沙丘
+{"msgCode":"1","isSuccess":"true"}
+******************
+ Hyperion
+******************
+海伯利安
+{"msgCode":"1","isSuccess":"true"}
+******************
+ The Gods Themselves
+******************
+神们自己
+{"msgCode":"1","isSuccess":"true"}
+******************
+ Neuromancer
+******************
+神经漫游者
+{"msgCode":"1","isSuccess":"true"}
+华氏451
+{"msgCode":"1","isSuccess":"true"}
+球状闪电
+{"msgCode":"1","isSuccess":"true"}
+None
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 133, in book_detail
+    #print("book detail info as follow!")
+AttributeError: 'NoneType' object has no attribute 'text'
+None
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 133, in book_detail
+    #print("book detail info as follow!")
+AttributeError: 'NoneType' object has no attribute 'text'
+******************
+ Solaris
+******************
+索拉里斯星
+{"msgCode":"1","isSuccess":"true"}
+三体全集
+{"msgCode":"1","isSuccess":"true"}
+books ================================================
+[<li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26886310/" onclick="moreurl(this,{i:'0',query:'',subject_id:'26886310',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s29087935.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26886310/" onclick="moreurl(this,{i:'0',query:'',subject_id:'26886310',from:'book_subject_search'})" title="有匪1">
+
+    有匪1
+
+
+
+      <span style="font-size:12px;"> : 少年游 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  priest / 湖南文艺出版社 / 2016-11 / 35.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.0</span>
+<span class="pl">
+        (4294人评价)
+    </span>
+</div>
+<p>晋江超100亿积分、大神级作家Priest古言小说扛鼎之作
+终有一天，你会跨过静谧无声的洗墨江，离开群山环抱的旧桃源，来到无边阴霾的夜空之下。
+你会目睹无数... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/26886310/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/3426869/" onclick="moreurl(this,{i:'1',query:'',subject_id:'3426869',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s3551687.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/3426869/" onclick="moreurl(this,{i:'1',query:'',subject_id:'3426869',from:'book_subject_search'})" title="三生三世 十里桃花">
+
+    三生三世 十里桃花
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  唐七公子 / 沈阳出版社 / 2009-1 / 26.80
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">7.9</span>
+<span class="pl">
+        (68889人评价)
+    </span>
+</div>
+<p>前世今生系列之一。
+“你若敢死，我立刻便去找折颜要药水，把你忘得干干净净”
+他的身子一颤，半晌，扯出一个笑来，他说：“那样也好。”
+他在这世上，留给我的最后... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/3426869/buylinks">
+        纸质版 17.40 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1461903/" onclick="moreurl(this,{i:'2',query:'',subject_id:'1461903',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s2529195.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1461903/" onclick="moreurl(this,{i:'2',query:'',subject_id:'1461903',from:'book_subject_search'})" title="何以笙箫默">
+
+    何以笙箫默
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  顾漫 / 朝华出版社 / 2007-4 / 15.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">7.8</span>
+<span class="pl">
+        (120169人评价)
+    </span>
+</div>
+<p>一段年少时的爱恋，牵出一生的纠缠。大学时代的赵默笙阳光灿烂，对法学系大才子何以琛一见倾心，开朗直率的她拔足倒追，终于使才气出众的他为她停留驻足。然而，不善表... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26680113/" onclick="moreurl(this,{i:'3',query:'',subject_id:'26680113',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s28357474.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26680113/" onclick="moreurl(this,{i:'3',query:'',subject_id:'26680113',from:'book_subject_search'})" title="那个不为人知的故事">
+
+    那个不为人知的故事
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  twentine / 江苏文艺出版社 / 2015-12 / 32.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.6</span>
+<span class="pl">
+        (4148人评价)
+    </span>
+</div>
+<p>我曾拥有一段时光
+在那段时光里
+我能用我贫瘠的词语描绘出每一分每一秒
+我能用我枯竭的心灵记住所有的细节
+但这段时光很短暂
+就像一个故事刚刚有了开篇就戛然而止... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/5916880/" onclick="moreurl(this,{i:'4',query:'',subject_id:'5916880',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s4599550.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/5916880/" onclick="moreurl(this,{i:'4',query:'',subject_id:'5916880',from:'book_subject_search'})" title="华胥引（全二册）">
+
+    华胥引（全二册）
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  唐七公子 / 现代出版社 / 2011-1 / 39.80元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.5</span>
+<span class="pl">
+        (39850人评价)
+    </span>
+</div>
+<p>《华胥引(套装共2册)》主要内容包括：华胥一引，乱世成殇。琴弦震响于九州列国之上，无声惊动。这是一个发生在乱世的故事。城破之日，卫国公主叶蓁以身殉国，依靠鲛... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/5916880/buylinks">
+        纸质版 24.90 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/27082275/" onclick="moreurl(this,{i:'5',query:'',subject_id:'27082275',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s29488239.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/27082275/" onclick="moreurl(this,{i:'5',query:'',subject_id:'27082275',from:'book_subject_search'})" title="偏爱你的甜">
+
+    偏爱你的甜
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  苏亦 / 百花洲文艺出版社 / 2017-7-1 / 32.8
+
+      </div>
+<div class="star clearfix">
+<span class="allstar50"></span>
+<span class="rating_nums">9.5</span>
+<span class="pl">
+        (96人评价)
+    </span>
+</div>
+<p>我是中国人，MOF先生是法国人。
+他叫我Ma petite chouchou，意思是我的小宝贝。
+礼尚往来，我叫他萌雪梨。
+法语Mon chéri，我亲爱的... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/27082275/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/3879301/" onclick="moreurl(this,{i:'6',query:'',subject_id:'3879301',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s10320248.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/3879301/" onclick="moreurl(this,{i:'6',query:'',subject_id:'3879301',from:'book_subject_search'})" title="微微一笑很倾城">
+
+    微微一笑很倾城
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  顾漫 / 江苏文艺出版社 / 2009-8 / 25.00
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.0</span>
+<span class="pl">
+        (79113人评价)
+    </span>
+</div>
+<p>如果你“惨”遭抛弃后，忽然有个很强很拽很不可一世的男人向你求婚，你怎么反应？
+贝微微同学的反应是：“大神……你被盗号了么＝ ＝”
+这个世界也太不真实了吧！
+... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/3879301/buylinks">
+        纸质版 10.80 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/6139592/" onclick="moreurl(this,{i:'7',query:'',subject_id:'6139592',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s24975014.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/6139592/" onclick="moreurl(this,{i:'7',query:'',subject_id:'6139592',from:'book_subject_search'})" title="11处特工皇妃">
+
+    11处特工皇妃
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  潇湘冬儿 / 江苏文艺出版社 / 2011-5 / 74.80元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">7.9</span>
+<span class="pl">
+        (6795人评价)
+    </span>
+</div>
+<p>《11处特工皇妃(套装上中下册)》内容简介：她是国安局军情十一处惊才绝艳的王牌军师——收集情报、策划部署、进不友好国家布置暗杀任务……她运筹帷幄之中，决胜于... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/6139592/buylinks">
+        纸质版 51.60 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26662515/" onclick="moreurl(this,{i:'8',query:'',subject_id:'26662515',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s28338049.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26662515/" onclick="moreurl(this,{i:'8',query:'',subject_id:'26662515',from:'book_subject_search'})" title="他知道风从哪个方向来">
+
+    他知道风从哪个方向来
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  玖月晞 / 百花洲文艺出版社 / 2015-12-1 / 45.00
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">7.9</span>
+<span class="pl">
+        (5443人评价)
+    </span>
+</div>
+<p>这样确切的爱，一生只有一次。
+彭野，一个即使没有手表也能知道时间的男人，一个在草原上识别八十八个星座的男人，一个拥有神射手般枪法的男长，一个为了心爱的女人能... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/26662515/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/3606570/" onclick="moreurl(this,{i:'9',query:'',subject_id:'3606570',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s3682137.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/3606570/" onclick="moreurl(this,{i:'9',query:'',subject_id:'3606570',from:'book_subject_search'})" title="鹤唳华亭">
+
+    鹤唳华亭
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  雪满梁园 / 北岳文艺出版社 / 2008-12 / 25.80元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.3</span>
+<span class="pl">
+        (3317人评价)
+    </span>
+</div>
+<p>網絡版文案：
+吴绫蜀锦，鲜鲤熊蹯，绮年玉貌，一人之下，万人之上。
+幼失所恃，兄弟阋墙，父子相忌，君不为君，臣亦非臣。
+遇上你，并非我之所愿。既已遇上，就请你... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/3506871/" onclick="moreurl(this,{i:'10',query:'',subject_id:'3506871',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s3635269.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/3506871/" onclick="moreurl(this,{i:'10',query:'',subject_id:'3506871',from:'book_subject_search'})" title="曾有一个人，爱我如生命">
+
+    曾有一个人，爱我如生命
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  舒仪 / 中国画报出版社 / 2009-3 / 23.80
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">7.5</span>
+<span class="pl">
+        (27680人评价)
+    </span>
+</div>
+<p>如果当初我勇敢，结局是不是不一样。如果当时你坚持，回忆会不会不这样。
+我年少的爱人啊，你在我身上刻下伤痕、刻下时光。在那些泪眼相望的夜，我依然记得，你便是爱... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/3506871/buylinks">
+        纸质版 7.60 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/10807374/" onclick="moreurl(this,{i:'11',query:'',subject_id:'10807374',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s10425510.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/10807374/" onclick="moreurl(this,{i:'11',query:'',subject_id:'10807374',from:'book_subject_search'})" title="浮生若梦1">
+
+    浮生若梦1
+
+
+
+      <span style="font-size:12px;"> : 最后的王公 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  缪娟 / 湖南文艺出版社 / 2012-7 / 29.80元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.7</span>
+<span class="pl">
+        (3056人评价)
+    </span>
+</div>
+<p>缪娟殿堂级新作“浮生若梦三部曲”华美登场
+将清朝最后一个王爷的乱世绝恋写到极致
+一个在风雨飘摇的年月出生的王爷，
+一个拿猎枪指着人鼻子抢婚的王爷，
+一个亲眼... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/5980360/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/27046309/" onclick="moreurl(this,{i:'12',query:'',subject_id:'27046309',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s29452299.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/27046309/" onclick="moreurl(this,{i:'12',query:'',subject_id:'27046309',from:'book_subject_search'})" title="完美爱情标本店">
+
+    完美爱情标本店
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  殷小棠 / 百花洲文艺出版社 / 2017-6 / 39.80元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.9</span>
+<span class="pl">
+        (192人评价)
+    </span>
+</div>
+<p>《完美爱情标本店》是一本为爱而写的心动故事。
+书中16篇直逼爱情真相的故事，有笑点，也有泪点，细腻敏锐地描绘出了形形色色都市人的情感生活，故事情节各异又情感... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/27046309/buylinks">
+        纸质版 27.50 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26853361/" onclick="moreurl(this,{i:'13',query:'',subject_id:'26853361',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s29013178.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26853361/" onclick="moreurl(this,{i:'13',query:'',subject_id:'26853361',from:'book_subject_search'})" title="夜旅人">
+
+    夜旅人
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  赵熙之 / 百花洲文艺出版社 / 2016-9 / 32.80元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.6</span>
+<span class="pl">
+        (1516人评价)
+    </span>
+</div>
+<p>1937年7月11日，上海699号公寓。晚上十点整，盛清让结束学界的讨论会返家，廊灯忽然灭了。
+2015年7月11日，上海699号公寓。晚上十点整，宗瑛从凶... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/26853361/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/10468852/" onclick="moreurl(this,{i:'14',query:'',subject_id:'10468852',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s7084539.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/10468852/" onclick="moreurl(this,{i:'14',query:'',subject_id:'10468852',from:'book_subject_search'})" title="海棠依舊: 知否? 知否? 應是綠肥紅瘦 卷一">
+
+    海棠依舊: 知否? 知否? 應是綠肥紅瘦 卷一
+
+
+
+      <span style="font-size:12px;"> : 故園今日海棠開，只有名花苦幽獨 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  關心則亂 / 三采文化出版事業有限公司 / 2012-2-3 / NT$240
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.6</span>
+<span class="pl">
+        (3168人评价)
+    </span>
+</div>
+<p>★	現代書記官穿越成了失恃小女孩，古代庶女也要小資女孩往前衝，不但要謀生，還要謀得好！
+★	晉江總榜第4名、積分破9億、642萬人次點閱，年度超人氣種田文！... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26985289/" onclick="moreurl(this,{i:'15',query:'',subject_id:'26985289',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s29372227.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26985289/" onclick="moreurl(this,{i:'15',query:'',subject_id:'26985289',from:'book_subject_search'})" title="早安程先生">
+
+    早安程先生
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  刘小寐 / 中国言实出版社 / 2017-5-1
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.7</span>
+<span class="pl">
+        (105人评价)
+    </span>
+</div>
+<p>一张光盘，一场绑架，
+开启了一扇通往未知的大门。
+……
+人人都向往美好，如阳光，正义。
+可偏偏有那么一个人，与一切美好无关，
+他能让你濒临死亡，也能把你宠到... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/26985289/buylinks">
+        纸质版 28.90 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/10740021/" onclick="moreurl(this,{i:'16',query:'',subject_id:'10740021',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s9108552.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/10740021/" onclick="moreurl(this,{i:'16',query:'',subject_id:'10740021',from:'book_subject_search'})" title="三生三世 枕上书">
+
+    三生三世 枕上书
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  唐七公子 / 湖南文艺出版社 / 2012-6-1 / 32.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">7.7</span>
+<span class="pl">
+        (16643人评价)
+    </span>
+</div>
+<p>再掀“三生三世”畅销狂潮，完美再现唐七公子笔下最宏大的恩怨情仇  《男生女生》火爆连载一周年，引发一千万读者疯狂追捧的古言经典   如果执著终归于徒然，谁会... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/10740021/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26331014/" onclick="moreurl(this,{i:'17',query:'',subject_id:'26331014',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s29407307.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26331014/" onclick="moreurl(this,{i:'17',query:'',subject_id:'26331014',from:'book_subject_search'})" title="怨氣撞鈴1·食骨">
+
+    怨氣撞鈴1·食骨
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  尾魚 / 聯合文學 / 2015-2-13 / NTD 99
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.3</span>
+<span class="pl">
+        (4254人评价)
+    </span>
+</div>
+<p>一串只能被死人怨氣撞響的風鈴一段永遠看不到終點的漂泊旅程
+失蹤的背包客、詭譎的尕薩摩傳說、神祕的天葬台
+第一道撞響鬼鈴的怨氣，被藏在骨頭裡的祕密，究竟是……... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/26331014/buylinks">
+        纸质版 30.00 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/3290028/" onclick="moreurl(this,{i:'18',query:'',subject_id:'3290028',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s3391442.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/3290028/" onclick="moreurl(this,{i:'18',query:'',subject_id:'3290028',from:'book_subject_search'})" title="孤城闭">
+
+    孤城闭
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  米兰Lady / 新世界出版社 / 2008-11 / 22.80元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.4</span>
+<span class="pl">
+        (2387人评价)
+    </span>
+</div>
+<p>北宋的太平盛世，春风上国繁华。她是皇帝的爱女，依在父母身边窥帘望去，一时多少人杰：他原本是清俊的少年，穿梭于名臣和高士之间，人生拟是采采流水，蓬蓬远春。倏忽... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26989242/" onclick="moreurl(this,{i:'19',query:'',subject_id:'26989242',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s29381992.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26989242/" onclick="moreurl(this,{i:'19',query:'',subject_id:'26989242',from:'book_subject_search'})" title="有匪2：离恨楼">
+
+    有匪2：离恨楼
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  Priest / 湖南文艺出版社 / 2017-3 / 36.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.3</span>
+<span class="pl">
+        (1541人评价)
+    </span>
+</div>
+<p>周翡没有等来段九娘，却一头撞上青龙主郑罗生。
+"南北双刀"传人、"山川剑"后人、芙蓉神掌……竟全在衡山脚下这一间小小的"三春客栈"凑齐了。
+"山川剑"亡故，... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/26989242/buylinks">
+        纸质版 24.80 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>]
+有匪1
+{"msgCode":"1","isSuccess":"true"}
+三生三世 十里桃花
+{"msgCode":"1","isSuccess":"true"}
+何以笙箫默
+{"msgCode":"1","isSuccess":"true"}
+那个不为人知的故事
+None
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 45, in make_req
+    "catalogintro": payload["book_current_class"],
+KeyError: 'book_page_count'
+华胥引（全二册）
+{"msgCode":"1","isSuccess":"true"}
+Traceback (most recent call last):
+None
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 133, in book_detail
+    #print("book detail info as follow!")
+AttributeError: 'NoneType' object has no attribute 'text'
+微微一笑很倾城
+{"msgCode":"1","isSuccess":"true"}
+******************
+ 11处特工皇妃
+******************
+11处特工皇妃
+{"msgCode":"1","isSuccess":"true"}
+他知道风从哪个方向来
+{"msgCode":"1","isSuccess":"true"}
+鹤唳华亭
+{"msgCode":"1","isSuccess":"true"}
+曾有一个人，爱我如生命
+{"msgCode":"1","isSuccess":"true"}
+浮生若梦1
+{"msgCode":"1","isSuccess":"true"}
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 133, in book_detail
+    #print("book detail info as follow!")
+AttributeError: 'NoneType' object has no attribute 'text'
+None
+夜旅人
+{"msgCode":"1","isSuccess":"true"}
+海棠依舊: 知否? 知否? 應是綠肥紅瘦 卷一
+{"msgCode":"1","isSuccess":"true"}
+None
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 98, in book_detail
+    author_related_intro = book_detail_soup.find(
+IndexError: list index out of range
+三生三世 枕上书
+{"msgCode":"1","isSuccess":"true"}
+怨氣撞鈴1·食骨
+None
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 45, in make_req
+    "catalogintro": payload["book_current_class"],
+KeyError: 'book_page_count'
+孤城闭
+{"msgCode":"1","isSuccess":"true"}
+None
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 133, in book_detail
+    #print("book detail info as follow!")
+AttributeError: 'NoneType' object has no attribute 'text'
+books ================================================
+[<li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/27035185/" onclick="moreurl(this,{i:'0',query:'',subject_id:'27035185',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s29452375.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/27035185/" onclick="moreurl(this,{i:'0',query:'',subject_id:'27035185',from:'book_subject_search'})" title="贝伦与露西恩">
+
+    贝伦与露西恩
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [英] J.R.R. 托尔金 著、[英] 克里斯托弗·托尔金 编、[英] 艾伦·李 图 / 石中歌、杜蕴慈、邓嘉宛 / 世纪文景/上海人民出版社 / 2017-6 / 69.80元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.4</span>
+<span class="pl">
+        (195人评价)
+    </span>
+</div>
+<p>《霍比特人》《魔戒》作者毕生所寄 世间最美的爱情诗篇
+1917“一战”索姆河战场归来J.R.R.托尔金潜心动笔创世中洲
+2017 克里斯托弗·托尔金以父母爱... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/27035185/buylinks">
+        纸质版 55.00 元起
+      </a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/38992720/?dcs=tag-buylink&amp;dcm=douban&amp;dct=27035185" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1336330/" onclick="moreurl(this,{i:'1',query:'',subject_id:'1336330',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s1358984.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1336330/" onclick="moreurl(this,{i:'1',query:'',subject_id:'1336330',from:'book_subject_search'})" title="冰与火之歌（卷一）">
+
+    冰与火之歌（卷一）
+
+
+
+      <span style="font-size:12px;"> : 权力的游戏 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  [美] 乔治·R. R. 马丁 / 谭光磊、屈畅 / 重庆出版社 / 2005-5 / 68.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.3</span>
+<span class="pl">
+        (23386人评价)
+    </span>
+</div>
+<p>《冰与火之歌》由美国著名科幻奇幻小说家乔治·R·R·马丁所著，是当代奇幻文学一部影响深远的里程碑式的作品。它于1996年刚一问世，便以别具一格的结构，浩瀚辽... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/27059884/" onclick="moreurl(this,{i:'2',query:'',subject_id:'27059884',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s29530748.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/27059884/" onclick="moreurl(this,{i:'2',query:'',subject_id:'27059884',from:'book_subject_search'})" title="碟形世界：猫和少年魔笛手">
+
+    碟形世界：猫和少年魔笛手
+
+
+
+      <span style="font-size:12px;"> : 猫和少年魔笛手 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  [英] 特里·普拉切特 / 周莉 / 文汇出版社 / 2017-6-30 / 39.90元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.3</span>
+<span class="pl">
+        (2635人评价)
+    </span>
+</div>
+<p>比《哈利·波特》和《魔戒》加起来还好看的，可能只有《碟形世界》
+魔法很强大，但你自己更强大
+《碟形世界》背景
+茫茫宇宙中，一只巨龟正缓缓地游过星星间的深渊。... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/27059884/buylinks">
+        纸质版 28.90 元起
+      </a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/37661599/?dcs=tag-buylink&amp;dcm=douban&amp;dct=27059884" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1939182/" onclick="moreurl(this,{i:'3',query:'',subject_id:'1939182',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s1947928.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1939182/" onclick="moreurl(this,{i:'3',query:'',subject_id:'1939182',from:'book_subject_search'})" title="美国众神">
+
+    美国众神
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [英] 尼尔·盖曼 / 戚林 / 四川科学技术出版社 / 2006-12 / 36.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.0</span>
+<span class="pl">
+        (7467人评价)
+    </span>
+</div>
+<p>《美国众神》描述主人公——影子从监狱释放后，穿越美国大陆的旅行过程中的一系列奇遇。讲他与生活在美国土地上的各种神祇相遇，由此引发了出许多精彩动人、奇诡绚丽的... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/25826936/" onclick="moreurl(this,{i:'4',query:'',subject_id:'25826936',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s27218035.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/25826936/" onclick="moreurl(this,{i:'4',query:'',subject_id:'25826936',from:'book_subject_search'})" title="冰与火之歌">
+
+    冰与火之歌
+
+
+
+      <span style="font-size:12px;"> : （1-5卷：权力的游戏、列王的纷争、冰雨的风暴、群鸦的盛宴、魔龙的狂 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  [美]乔治·R.R.马丁 / 谭光磊、屈畅、胡绍晏 / 重庆出版社 / 2013-10-1 / 330.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar50"></span>
+<span class="rating_nums">9.5</span>
+<span class="pl">
+        (2467人评价)
+    </span>
+</div>
+<p>《冰与火之歌》（A Song of Ice and Fire）是由美国著名科幻奇幻小说家乔治·R·R·马丁（George R.R. Martin）所著的史诗... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26783041/" onclick="moreurl(this,{i:'5',query:'',subject_id:'26783041',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s28825571.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26783041/" onclick="moreurl(this,{i:'5',query:'',subject_id:'26783041',from:'book_subject_search'})" title="睡魔1：前奏与夜曲">
+
+    睡魔1：前奏与夜曲
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [美] 尼尔·盖曼（Neil Gaiman）编、山姆·凯斯（Sam Keith） 等绘 / 韩钢 / 北京联合出版公司·后浪出版公司 / 2016-8 / 128.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.1</span>
+<span class="pl">
+        (663人评价)
+    </span>
+</div>
+<p>《睡魔》是史上极为畅销和广受好评的漫画作品。它设立了漫画领域中成熟、诗意的幻想的标准。
+睡魔，一位身穿黑色风衣、有着星辰般双眼的忧郁男子。他既非神祇，也非魔... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/26783041/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26956486/" onclick="moreurl(this,{i:'6',query:'',subject_id:'26956486',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s29451465.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26956486/" onclick="moreurl(this,{i:'6',query:'',subject_id:'26956486',from:'book_subject_search'})" title="无根之木">
+
+    无根之木
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [美] 娜奥米·诺维克 / 雒城 / 天地出版社 / 2017-5 / 38.00
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.1</span>
+<span class="pl">
+        (115人评价)
+    </span>
+</div>
+<p>阿格涅什卡深爱她的山谷家园，黑森林却在山谷边缘虎视眈眈。黑森林里充满各种邪恶力量，它的阴影一直笼罩着人们的生活。
+她和同乡们的靠山，是一名冷酷、执拗的巫师，... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/26956486/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26862626/" onclick="moreurl(this,{i:'7',query:'',subject_id:'26862626',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s29103582.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26862626/" onclick="moreurl(this,{i:'7',query:'',subject_id:'26862626',from:'book_subject_search'})" title="克苏鲁神话">
+
+    克苏鲁神话
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [美] H.P.洛夫克拉夫特 / 姚向辉 / 浙江文艺出版社 / 2016-11-1 / 68.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">7.8</span>
+<span class="pl">
+        (2005人评价)
+    </span>
+</div>
+<p>《克苏鲁神话》被誉为20世纪最伟大、最具影响力的恐怖小说体系，作者是H.P.洛夫克拉夫特——或者“爱手艺”。
+假设你的脚边有一只蚂蚁在爬，你不会在意有没有踩... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/26862626/buylinks">
+        纸质版 48.50 元起
+      </a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/28031382/?dcs=tag-buylink&amp;dcm=douban&amp;dct=26862626" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26956479/" onclick="moreurl(this,{i:'8',query:'',subject_id:'26956479',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s29390802.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26956479/" onclick="moreurl(this,{i:'8',query:'',subject_id:'26956479',from:'book_subject_search'})" title="草原动物园">
+
+    草原动物园
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  马伯庸 / 中信出版集团 / 2017-3 / 48.00
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">7.8</span>
+<span class="pl">
+        (1239人评价)
+    </span>
+</div>
+<p>这是一位传教士带着“半个动物园”勇闯蒙古草原的奇幻故事。光绪末年，在京城的美国传教士柯罗威，突发奇想要去赤峰修建一座草原动物园。他带着雄狮、大象、鹦鹉、蟒蛇... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/26956479/buylinks">
+        纸质版 36.00 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/21979017/" onclick="moreurl(this,{i:'9',query:'',subject_id:'21979017',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s27063429.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/21979017/" onclick="moreurl(this,{i:'9',query:'',subject_id:'21979017',from:'book_subject_search'})" title="魔戒">
+
+    魔戒
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [英] J.R.R.托尔金 / 邓嘉宛、石中歌、杜蕴慈 / 上海人民出版社 / 2013-9 / 169.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar50"></span>
+<span class="rating_nums">9.5</span>
+<span class="pl">
+        (1763人评价)
+    </span>
+</div>
+<p>★献给未来的永恒经典，我们时代最伟大的奇幻史诗。
+★20世纪严肃想象力之源，蕴含对世间万物最本真的好奇心与最深刻的洞察力。
+★ J.K.罗琳、乔治•马丁、彼... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/21979017/buylinks">
+        纸质版 106.70 元起
+      </a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/5921625/?dcs=tag-buylink&amp;dcm=douban&amp;dct=21979017" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26307399/" onclick="moreurl(this,{i:'10',query:'',subject_id:'26307399',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s28018166.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26307399/" onclick="moreurl(this,{i:'10',query:'',subject_id:'26307399',from:'book_subject_search'})" title="吉尔莫·德尔·托罗的奇思妙想">
+
+    吉尔莫·德尔·托罗的奇思妙想
+
+
+
+      <span style="font-size:12px;"> : 我的私人笔记、收藏品和其他爱好 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  吉尔莫·德尔·托罗 / 潘志剑 / 中国长安出版社 / 2015-3 / 258.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.9</span>
+<span class="pl">
+        (322人评价)
+    </span>
+</div>
+<p>吉尔莫·德尔·托罗策划、写作，首次公开大量手记、手绘图、藏品，展现自己奇思妙想的大部头收藏本！
+詹姆斯·卡梅隆作序，汤姆·克鲁斯作后记！
+尼尔·盖曼、约翰·... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/26307399/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/27017782/" onclick="moreurl(this,{i:'11',query:'',subject_id:'27017782',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s29640470.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/27017782/" onclick="moreurl(this,{i:'11',query:'',subject_id:'27017782',from:'book_subject_search'})" title="二代目归来">
+
+    二代目归来
+
+
+
+      <span style="font-size:12px;"> : 有顶天家族 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  [日] 森见登美彦 / 黄文娟 / 世纪文景/上海人民出版社 / 2017-5-25 / 45.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.4</span>
+<span class="pl">
+        (362人评价)
+    </span>
+</div>
+<p>波澜壮阔的“毛球物语”拉开第二幕！
+★日本奇幻小说大奖、科幻小说大奖、山本周五郎奖得主；五次上榜书店大奖的作家令人捧腹又想象力非凡的经典作品。
+★致天地之间... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/27017782/buylinks">
+        纸质版 35.40 元起
+      </a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/35161949/?dcs=tag-buylink&amp;dcm=douban&amp;dct=27017782" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1321017/" onclick="moreurl(this,{i:'12',query:'',subject_id:'1321017',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s1520169.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1321017/" onclick="moreurl(this,{i:'12',query:'',subject_id:'1321017',from:'book_subject_search'})" title="九州·缥缈录">
+
+    九州·缥缈录
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  江南 / 新世界出版社 / 2005-6 / 20.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.8</span>
+<span class="pl">
+        (19831人评价)
+    </span>
+</div>
+<p>当这个世界都要崩溃；当星辰和阳光也熄灭，当马蹄踏过弱者的尸骨，当黑暗的血色吞噬人心，不死的鹰再次降落在草原，英雄还在哭泣，在铁铸的摇篮中成长……《九州·缥缈... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/25934300/" onclick="moreurl(this,{i:'13',query:'',subject_id:'25934300',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s27498509.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/25934300/" onclick="moreurl(this,{i:'13',query:'',subject_id:'25934300',from:'book_subject_search'})" title="塞拉菲尼抄本">
+
+    塞拉菲尼抄本
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [意] 鹿易吉·塞拉菲尼 / 张密 / 北京联合出版公司 / 2014-11 / 799.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.7</span>
+<span class="pl">
+        (943人评价)
+    </span>
+</div>
+<p>《塞拉菲尼抄本》创作于1976年至1978年，并于1981年首次出版。2014年上市的中国版，是全球第七种语言授权，参与了全球合印计划，由意大利原厂印刷，原... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/25934300/buylinks">
+        纸质版 579.30 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/2334065/" onclick="moreurl(this,{i:'14',query:'',subject_id:'2334065',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s4433958.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/2334065/" onclick="moreurl(this,{i:'14',query:'',subject_id:'2334065',from:'book_subject_search'})" title="塔希里亚故事集">
+
+    塔希里亚故事集
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  吴淼 / 接力出版社 / 2007 / 26.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.4</span>
+<span class="pl">
+        (3643人评价)
+    </span>
+</div>
+<p>在这个被虚构出来的、气势磅礴的塔然里亚世界中，生存着一群智慧的强者；法师、巨龙、精灵、矮人……
+他们生存着、战斗着、恋爱着、思考着……生的意义何在？死后去向... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/2334065/buylinks">
+        纸质版 32.50 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1063401/" onclick="moreurl(this,{i:'15',query:'',subject_id:'1063401',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s1049202.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1063401/" onclick="moreurl(this,{i:'15',query:'',subject_id:'1063401',from:'book_subject_search'})" title="精灵宝钻">
+
+    精灵宝钻
+
+
+
+      <span style="font-size:12px;"> : 魔戒起源 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  托尔金 / 李尧 / 译林出版社 / 2004-05 / 21.3
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.5</span>
+<span class="pl">
+        (1974人评价)
+    </span>
+</div>
+<p>本书在它的作者去世四年之后出版。这部书描绘了上古时期，或者说“第一纪”时的情景。魔戒叙述的是第三纪末期发生的重大事件，《精灵宝钻》的故事则可以追溯到久远的过... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26895508/" onclick="moreurl(this,{i:'16',query:'',subject_id:'26895508',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s29126518.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26895508/" onclick="moreurl(this,{i:'16',query:'',subject_id:'26895508',from:'book_subject_search'})" title="睡魔2：玩偶之家">
+
+    睡魔2：玩偶之家
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [美] 尼尔·盖曼（Neil Gaiman）编、迈克·德林根贝格（Mike Dringenberg） 等绘 / 韩钢 / 北京联合出版公司·后浪出版公司 / 2016-12 / 128.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.3</span>
+<span class="pl">
+        (375人评价)
+    </span>
+</div>
+<p>《美国众神》《坟场之书》《星尘》作者、奇幻大师尼尔·盖曼成名力作
+世界奇幻奖、艾斯纳奖、安古兰获奖作品
+IGN首佳漫画、《纽约时报》畅销书榜
+《娱乐周刊》“... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/26895508/buylinks">
+        纸质版 96.00 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/20473089/" onclick="moreurl(this,{i:'17',query:'',subject_id:'20473089',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s24626473.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/20473089/" onclick="moreurl(this,{i:'17',query:'',subject_id:'20473089',from:'book_subject_search'})" title="有顶天家族">
+
+    有顶天家族
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [日] 森见登美彦 / 高詹燦 / 上海人民出版社 / 2013-3 / 35.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.6</span>
+<span class="pl">
+        (2736人评价)
+    </span>
+</div>
+<p>下鸭家是京都狸猫的名门，却没有望族该有的正经相。
+能干的老爸撒手西去，留下热衷桌球畏惧雷电的母亲和四只小狸。
+老大矢一郎一到紧要关头就失措；
+老二变身青蛙滞... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/20473089/buylinks">
+        纸质版 22.80 元起
+      </a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/34069543/?dcs=tag-buylink&amp;dcm=douban&amp;dct=20473089" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26835827/" onclick="moreurl(this,{i:'18',query:'',subject_id:'26835827',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s29050977.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26835827/" onclick="moreurl(this,{i:'18',query:'',subject_id:'26835827',from:'book_subject_search'})" title="想象地名私人词典">
+
+    想象地名私人词典
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [加] A.曼古埃尔、[意] G.盖德鲁培 / 赵蓉 / 华东师范大学出版社 / 2016-8 / 148.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.9</span>
+<span class="pl">
+        (98人评价)
+    </span>
+</div>
+<p>本词典汇集了文学史上曾经 出现过的无数神奇之地，从亚特兰蒂斯到仙都——眼前这部恢弘的想象地名指南将引领作为读者的您进行一次盛大的旅行，使您饱览叙事者们所创造... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/26835827/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/5916880/" onclick="moreurl(this,{i:'19',query:'',subject_id:'5916880',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s4599550.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/5916880/" onclick="moreurl(this,{i:'19',query:'',subject_id:'5916880',from:'book_subject_search'})" title="华胥引（全二册）">
+
+    华胥引（全二册）
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  唐七公子 / 现代出版社 / 2011-1 / 39.80元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.5</span>
+<span class="pl">
+        (39850人评价)
+    </span>
+</div>
+<p>《华胥引(套装共2册)》主要内容包括：华胥一引，乱世成殇。琴弦震响于九州列国之上，无声惊动。这是一个发生在乱世的故事。城破之日，卫国公主叶蓁以身殉国，依靠鲛... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/5916880/buylinks">
+        纸质版 24.90 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>]
+******************
+ Beren and Lúthien
+******************
+贝伦与露西恩
+{"msgCode":"1","isSuccess":"true"}
+******************
+ A Game of Thrones
+******************
+冰与火之歌（卷一）
+{"msgCode":"1","isSuccess":"true"}
+******************
+ The Amazing Maurice and His Educated Rodents（A DISCWORLD NOVEL）
+******************
+碟形世界：猫和少年魔笛手
+{"msgCode":"1","isSuccess":"true"}
+美国众神
+{"msgCode":"1","isSuccess":"true"}
+******************
+ A Song of Ice and Fire
+******************
+冰与火之歌
+{"msgCode":"1","isSuccess":"true"}
+None
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 133, in book_detail
+    #print("book detail info as follow!")
+AttributeError: 'NoneType' object has no attribute 'text'
+******************
+ Uprooted
+******************
+无根之木
+{"msgCode":"1","isSuccess":"true"}
+None
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 133, in book_detail
+    #print("book detail info as follow!")
+AttributeError: 'NoneType' object has no attribute 'text'
+草原动物园
+{"msgCode":"1","isSuccess":"true"}
+******************
+ The Lord of the Rings
+******************
+魔戒
+{"msgCode":"1","isSuccess":"true"}
+吉尔莫·德尔·托罗的奇思妙想
+{"msgCode":"1","isSuccess":"true"}
+二代目归来
+{"msgCode":"1","isSuccess":"true"}
+九州·缥缈录
+{"msgCode":"1","isSuccess":"true"}
+******************
+ Codex Seraphinianus
+******************
+塞拉菲尼抄本
+{"msgCode":"1","isSuccess":"true"}
+None
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 145, in book_detail
+    if "译者" in item[0]:
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 23, in parser_data
+    if len(str(data).split("-")) > 2:
+IndexError: list index out of range
+精灵宝钻
+{"msgCode":"1","isSuccess":"true"}
+Traceback (most recent call last):
+None
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 133, in book_detail
+    #print("book detail info as follow!")
+AttributeError: 'NoneType' object has no attribute 'text'
+******************
+ 有頂天家族
+******************
+有顶天家族
+{"msgCode":"1","isSuccess":"true"}
+None
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 133, in book_detail
+    #print("book detail info as follow!")
+AttributeError: 'NoneType' object has no attribute 'text'
+华胥引（全二册）
+{"msgCode":"1","isSuccess":"true"}
+books ================================================
+[<li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26886310/" onclick="moreurl(this,{i:'0',query:'',subject_id:'26886310',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s29087935.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26886310/" onclick="moreurl(this,{i:'0',query:'',subject_id:'26886310',from:'book_subject_search'})" title="有匪1">
+
+    有匪1
+
+
+
+      <span style="font-size:12px;"> : 少年游 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  priest / 湖南文艺出版社 / 2016-11 / 35.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.0</span>
+<span class="pl">
+        (4294人评价)
+    </span>
+</div>
+<p>晋江超100亿积分、大神级作家Priest古言小说扛鼎之作
+终有一天，你会跨过静谧无声的洗墨江，离开群山环抱的旧桃源，来到无边阴霾的夜空之下。
+你会目睹无数... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/26886310/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1255625/" onclick="moreurl(this,{i:'1',query:'',subject_id:'1255625',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s23632058.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1255625/" onclick="moreurl(this,{i:'1',query:'',subject_id:'1255625',from:'book_subject_search'})" title="天龙八部">
+
+    天龙八部
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  金庸 / 三联书店 / 1994-5 / 96.0
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.1</span>
+<span class="pl">
+        (57334人评价)
+    </span>
+</div>
+<p>天龙八部乃金笔下的一部长篇小说，与《射雕》，《神雕》等    几部长篇小说一起被称为可读性最高的金庸小说。《天龙》的故事情节曲折，内容丰富，也曾多次被改编为... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1002299/" onclick="moreurl(this,{i:'2',query:'',subject_id:'1002299',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s2157335.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1002299/" onclick="moreurl(this,{i:'2',query:'',subject_id:'1002299',from:'book_subject_search'})" title="笑傲江湖（全四册）">
+
+    笑傲江湖（全四册）
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  金庸 / 生活·读书·新知三联书店 / 1994-5 / 76.80元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.0</span>
+<span class="pl">
+        (50863人评价)
+    </span>
+</div>
+<p>《笑傲江湖》是金庸1967年写的一部武侠小说，属于金庸的后期作品。 </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1255624/" onclick="moreurl(this,{i:'3',query:'',subject_id:'1255624',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s26018916.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1255624/" onclick="moreurl(this,{i:'3',query:'',subject_id:'1255624',from:'book_subject_search'})" title="神雕侠侣">
+
+    神雕侠侣
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  金庸 / 生活·读书·新知三联书店 / 1994-5 / 76.8
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.8</span>
+<span class="pl">
+        (46417人评价)
+    </span>
+</div>
+<p>《神雕侠侣》是金庸作品集之一。其主人公杨过自然而然地走上了非正统的人生道路，入了“道流”。其特点是“至情至性，实现自我”，即把个人的利益、情感、个性及人格尊... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/1255624/buylinks">
+        纸质版 49.90 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1044547/" onclick="moreurl(this,{i:'4',query:'',subject_id:'1044547',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s2157336.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1044547/" onclick="moreurl(this,{i:'4',query:'',subject_id:'1044547',from:'book_subject_search'})" title="射雕英雄传（全四册）">
+
+    射雕英雄传（全四册）
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  金庸 / 生活·读书·新知三联书店 / 1999-04 / 47.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.9</span>
+<span class="pl">
+        (33257人评价)
+    </span>
+</div>
+<p>《射雕英雄传》是金庸的代表作之一，作于一九五七年到一九五九年，在《香港商报》连载。《射雕》中的人物个性单纯，郭靖诚朴厚重、黄蓉机智狡狯，读者容易印象深刻。这... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26989242/" onclick="moreurl(this,{i:'5',query:'',subject_id:'26989242',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s29381992.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26989242/" onclick="moreurl(this,{i:'5',query:'',subject_id:'26989242',from:'book_subject_search'})" title="有匪2：离恨楼">
+
+    有匪2：离恨楼
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  Priest / 湖南文艺出版社 / 2017-3 / 36.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.3</span>
+<span class="pl">
+        (1541人评价)
+    </span>
+</div>
+<p>周翡没有等来段九娘，却一头撞上青龙主郑罗生。
+"南北双刀"传人、"山川剑"后人、芙蓉神掌……竟全在衡山脚下这一间小小的"三春客栈"凑齐了。
+"山川剑"亡故，... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/26989242/buylinks">
+        纸质版 24.80 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1919201/" onclick="moreurl(this,{i:'6',query:'',subject_id:'1919201',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s3007857.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1919201/" onclick="moreurl(this,{i:'6',query:'',subject_id:'1919201',from:'book_subject_search'})" title="七夜雪">
+
+    七夜雪
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  沧月 / 北京十月文艺出版社 / 2006-10 / 25.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.4</span>
+<span class="pl">
+        (25766人评价)
+    </span>
+</div>
+<p>鼎剑阁霍展白为救治昔日恋人之子沫儿的病，用七年的时间拼死取得了药王谷主人薛紫夜开给他的七味绝世药引，魔教大光明宫排位第一的神秘杀手瞳为了自己能杀死魔教教主获... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1212893/" onclick="moreurl(this,{i:'7',query:'',subject_id:'1212893',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s3134040.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1212893/" onclick="moreurl(this,{i:'7',query:'',subject_id:'1212893',from:'book_subject_search'})" title="鹿鼎记（全五册）">
+
+    鹿鼎记（全五册）
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  金庸 / 广州出版社 花城出版社 / 2008-3 / 108.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.8</span>
+<span class="pl">
+        (27980人评价)
+    </span>
+</div>
+<p>《鹿鼎记》是金庸创作的最后一部小说，也是他最重要的代表作。
+小说讲的是一个从小在扬州妓院长大的小孩韦小宝，他以不会任何武功之姿态闯江湖各大帮会、周旋皇帝朝臣... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/1212893/buylinks">
+        纸质版 95.00 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/24324704/" onclick="moreurl(this,{i:'8',query:'',subject_id:'24324704',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s26821883.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/24324704/" onclick="moreurl(this,{i:'8',query:'',subject_id:'24324704',from:'book_subject_search'})" title="剑桥简明金庸武侠史">
+
+    剑桥简明金庸武侠史
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  新垣平 / 长江文艺出版社 / 2013-7 / 32.80元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.1</span>
+<span class="pl">
+        (2790人评价)
+    </span>
+</div>
+<p>本书是关于中国武侠世界的一部虚拟历史研究。以金庸武侠是真实历史的一部分为前提展开演绎。本身以十五部金庸小说、唐宋传奇及各时期民间传说为基础构成的连贯武侠史为... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/24529235/" onclick="moreurl(this,{i:'9',query:'',subject_id:'24529235',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s26947312.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/24529235/" onclick="moreurl(this,{i:'9',query:'',subject_id:'24529235',from:'book_subject_search'})" title="刀背藏身">
+
+    刀背藏身
+
+
+
+      <span style="font-size:12px;"> : 徐皓峰武侠短篇集 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  徐皓峰 / 人民文学出版社 / 2013-7 / 39.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.4</span>
+<span class="pl">
+        (2290人评价)
+    </span>
+</div>
+<p>《刀背藏身：徐皓峰武侠短篇集》收入徐皓峰2012年5月至2013年2月间完成的三个短篇新作：《师父》《国士》《刀背藏身》。
+《师父》已获《人民文学》杂志短篇... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/24529235/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/5423803/" onclick="moreurl(this,{i:'10',query:'',subject_id:'5423803',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s6464911.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/5423803/" onclick="moreurl(this,{i:'10',query:'',subject_id:'5423803',from:'book_subject_search'})" title="剑桥倚天屠龙史">
+
+    剑桥倚天屠龙史
+
+
+
+      <span style="font-size:12px;"> : The Cambridge History of Chinese Kongfu Circle during the Yuan Dynasty </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  新垣平 / 万卷出版公司 / 2011-3 / 28.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.2</span>
+<span class="pl">
+        (6712人评价)
+    </span>
+</div>
+<p>《剑桥倚天屠龙史》是新垣平博士恶搞《倚天屠龙记》和正史的戏作。新博士学识渊博，才华横溢，他运用奇妙的想象和精妙的推理，将正史和武侠完美地熔为一炉，写出了这部... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/3532347/" onclick="moreurl(this,{i:'11',query:'',subject_id:'3532347',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s28345048.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/3532347/" onclick="moreurl(this,{i:'11',query:'',subject_id:'3532347',from:'book_subject_search'})" title="金庸全集">
+
+    金庸全集
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  金庸 / 生活·读书·新知三联书店 / 1994-5
+
+      </div>
+<div class="star clearfix">
+<span class="allstar50"></span>
+<span class="rating_nums">9.6</span>
+<span class="pl">
+        (2339人评价)
+    </span>
+</div>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1070851/" onclick="moreurl(this,{i:'12',query:'',subject_id:'1070851',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s1829709.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1070851/" onclick="moreurl(this,{i:'12',query:'',subject_id:'1070851',from:'book_subject_search'})" title="倚天屠龙记(共四册)">
+
+    倚天屠龙记(共四册)
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  金庸 / 三联书店 / 1999-04 / 0
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.5</span>
+<span class="pl">
+        (25348人评价)
+    </span>
+</div>
+<p>《倚天屠龙记》，金庸武侠小说，著于1961年，是“射雕三部曲”系列第三部，现收录在《金庸作品集》中。该书以元末群雄纷起、江湖动荡为广阔背景，叙述武当弟子张无... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/27079142/" onclick="moreurl(this,{i:'13',query:'',subject_id:'27079142',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s29484809.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/27079142/" onclick="moreurl(this,{i:'13',query:'',subject_id:'27079142',from:'book_subject_search'})" title="有匪3">
+
+    有匪3
+
+
+
+      <span style="font-size:12px;"> : 多情累 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  Priest / 湖南文艺出版社 / 2017-7 / 35.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.1</span>
+<span class="pl">
+        (912人评价)
+    </span>
+</div>
+<p>晋江超200亿积分、大神级作家Priest古言小说扛鼎之作
+豆瓣年度读书榜单推荐作品
+《有匪》系列第三部
+终篇大结局即将揭幕
+霍家堡那一场大火，没有烧掉霍家... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/27079142/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1109968/" onclick="moreurl(this,{i:'14',query:'',subject_id:'1109968',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s1091512.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1109968/" onclick="moreurl(this,{i:'14',query:'',subject_id:'1109968',from:'book_subject_search'})" title="英雄志（全三册）">
+
+    英雄志（全三册）
+
+
+
+      <span style="font-size:12px;"> : 第一部 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  孙晓 / 京华出版社 / 2003-05 / 54.0
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.7</span>
+<span class="pl">
+        (3674人评价)
+    </span>
+</div>
+<p>本书一度不被归类为武侠小说，尽管武功打斗、两军对战的传统情节仍可时时窥见，但整部书的视野离开了武侠小说的标准传统，作者道出了一个既真实、又现实的江湖。门户之... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/2218216/" onclick="moreurl(this,{i:'15',query:'',subject_id:'2218216',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s2834105.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/2218216/" onclick="moreurl(this,{i:'15',query:'',subject_id:'2218216',from:'book_subject_search'})" title="金庸作品集">
+
+    金庸作品集
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  金庸 / 广州出版社 / 2006-1 / 683
+
+      </div>
+<div class="star clearfix">
+<span class="allstar50"></span>
+<span class="rating_nums">9.5</span>
+<span class="pl">
+        (4536人评价)
+    </span>
+</div>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1264579/" onclick="moreurl(this,{i:'16',query:'',subject_id:'1264579',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s2508587.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1264579/" onclick="moreurl(this,{i:'16',query:'',subject_id:'1264579',from:'book_subject_search'})" title="欢乐英雄">
+
+    欢乐英雄
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  古龙 / 珠海出版社 / 2005-8 / 28.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.8</span>
+<span class="pl">
+        (9551人评价)
+    </span>
+</div>
+<p>成书于1971年。当时是古龙巅峰时期，是古龙个人最爱的作品。但因为小说与一般传统的武侠小说有着许多不同，叙述也是采用了散文化的笔法，因此在一些读者中间并未得... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1089512/" onclick="moreurl(this,{i:'17',query:'',subject_id:'1089512',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s10169596.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1089512/" onclick="moreurl(this,{i:'17',query:'',subject_id:'1089512',from:'book_subject_search'})" title="陆小凤传奇">
+
+    陆小凤传奇
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  古龙 / 珠海出版社 / 2005-8 / 94.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.7</span>
+<span class="pl">
+        (12512人评价)
+    </span>
+</div>
+<p>本书为新版古龙作品集绘图珍藏本之51-55，古龙为从1960年创作《苍穹神剑》始，一生共写了近70部武侠小说，在小说中，他直接地或者通过人物的口，肆无忌惮地... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1422833/" onclick="moreurl(this,{i:'18',query:'',subject_id:'1422833',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s1641357.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1422833/" onclick="moreurl(this,{i:'18',query:'',subject_id:'1422833',from:'book_subject_search'})" title="多情剑客无情剑(上、中、下)">
+
+    多情剑客无情剑(上、中、下)
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  古龙 / 海天出版社 / 1991-12-01 / 49.8
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.7</span>
+<span class="pl">
+        (11742人评价)
+    </span>
+</div>
+<p>《小李飞刀:多情剑客无情剑》一直被公认为古龙武侠作品的巅峰之作和最高成就。它不仅是一部阐明武学真谛的作品，还是一部写尽人间世态炎凉的人情历史画，更是一部触动... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1461898/" onclick="moreurl(this,{i:'19',query:'',subject_id:'1461898',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s26012439.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1461898/" onclick="moreurl(this,{i:'19',query:'',subject_id:'1461898',from:'book_subject_search'})" title="蜀山剑侠传">
+
+    蜀山剑侠传
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  还珠楼主 / 山西人民出版社，北岳文艺出版社 / 1998 / 199.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.5</span>
+<span class="pl">
+        (983人评价)
+    </span>
+</div>
+<p>《蜀山剑侠传》是还珠楼主惊天巨著，洋洋500万言，给后来的梁羽生、金庸、古龙等武侠小说,中国后现代神怪,仙侠等类型的小说,游戏(如仙剑奇侠传等)以及诸多作品... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>]
+有匪1
+{"msgCode":"1","isSuccess":"true"}
+天龙八部
+{"msgCode":"1","isSuccess":"true"}
+笑傲江湖（全四册）
+{"msgCode":"1","isSuccess":"true"}
+神雕侠侣
+{"msgCode":"1","isSuccess":"true"}
+射雕英雄传（全四册）
+{"msgCode":"1","isSuccess":"true"}
+None
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 133, in book_detail
+    #print("book detail info as follow!")
+AttributeError: 'NoneType' object has no attribute 'text'
+七夜雪
+{"msgCode":"1","isSuccess":"true"}
+鹿鼎记（全五册）
+{"msgCode":"1","isSuccess":"true"}
+剑桥简明金庸武侠史
+{"msgCode":"1","isSuccess":"true"}
+刀背藏身
+{"msgCode":"1","isSuccess":"true"}
+剑桥倚天屠龙史
+{"msgCode":"1","isSuccess":"true"}
+None
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 92, in book_detail
+    book_related_intro = book_detail_soup.find(
+IndexError: list index out of range
+倚天屠龙记(共四册)
+{"msgCode":"1","isSuccess":"true"}
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 133, in book_detail
+    #print("book detail info as follow!")
+AttributeError: 'NoneType' object has no attribute 'text'
+None
+英雄志（全三册）
+{"msgCode":"1","isSuccess":"true"}
+None
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 92, in book_detail
+    book_related_intro = book_detail_soup.find(
+IndexError: list index out of range
+欢乐英雄
+{"msgCode":"1","isSuccess":"true"}
+陆小凤传奇
+{"msgCode":"1","isSuccess":"true"}
+多情剑客无情剑(上、中、下)
+{"msgCode":"1","isSuccess":"true"}
+None
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 145, in book_detail
+    if "译者" in item[0]:
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 23, in parser_data
+    if len(str(data).split("-")) > 2:
+IndexError: list index out of range
+books ================================================
+[<li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/25985021/" onclick="moreurl(this,{i:'0',query:'',subject_id:'25985021',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s27814883.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/25985021/" onclick="moreurl(this,{i:'0',query:'',subject_id:'25985021',from:'book_subject_search'})" title="人类简史">
+
+    人类简史
+
+
+
+      <span style="font-size:12px;"> : 从动物到上帝 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  [以色列]尤瓦尔·赫拉利 / 林俊宏 / 中信出版社 / 2014-11-1 / CNY 68.00
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.1</span>
+<span class="pl">
+        (42770人评价)
+    </span>
+</div>
+<p>十万年前，地球上至少有六种不同的人
+但今日，世界舞台为什么只剩下了我们自己？
+从只能啃食虎狼吃剩的残骨的猿人，到跃居食物链顶端的智人，
+从雪维洞穴壁上的原始... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/25985021/buylinks">
+        纸质版 54.40 元起
+      </a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/10570957/?dcs=tag-buylink&amp;dcm=douban&amp;dct=25985021" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26698660/" onclick="moreurl(this,{i:'1',query:'',subject_id:'26698660',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s28668834.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26698660/" onclick="moreurl(this,{i:'1',query:'',subject_id:'26698660',from:'book_subject_search'})" title="巨人的陨落">
+
+    巨人的陨落
+
+
+
+      <span style="font-size:12px;"> : 世纪三部曲 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  [英] 肯·福莱特 / 于大卫 / 江苏凤凰文艺出版社 / 2016-5-1 / 129.80元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.9</span>
+<span class="pl">
+        (33310人评价)
+    </span>
+</div>
+<p>在第一次世界大战的硝烟中，每一个迈向死亡的生命都在热烈地生长——威尔士的矿工少年、刚失恋的美国法律系大学生、穷困潦倒的俄国兄弟、富有英俊的英格兰伯爵，以及痴... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/26698660/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/21496892/?dcs=tag-buylink&amp;dcm=douban&amp;dct=26698660" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26704403/" onclick="moreurl(this,{i:'2',query:'',subject_id:'26704403',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s28397415.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26704403/" onclick="moreurl(this,{i:'2',query:'',subject_id:'26704403',from:'book_subject_search'})" title="二手时间">
+
+    二手时间
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [白俄] S.A.阿列克谢耶维奇 / 吕宁思 / 中信出版社 / 2016-1 / 55.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.8</span>
+<span class="pl">
+        (6289人评价)
+    </span>
+</div>
+<p>2015年度诺贝尔文学奖得主阿列克谢耶维奇最具分量的作品
+发表后荣获德国书业和平奖（2013）、法国美第契散文奖（2013）、俄罗斯「大书奖」读者票选最佳文... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/26704403/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/22743267/?dcs=tag-buylink&amp;dcm=douban&amp;dct=26704403" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1041482/" onclick="moreurl(this,{i:'3',query:'',subject_id:'1041482',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s1800355.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1041482/" onclick="moreurl(this,{i:'3',query:'',subject_id:'1041482',from:'book_subject_search'})" title="万历十五年">
+
+    万历十五年
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [美] 黄仁宇 / 生活·读书·新知三联书店 / 1997-5 / 18.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.9</span>
+<span class="pl">
+        (63423人评价)
+    </span>
+</div>
+<p>万历十五年，亦即公元1587年，在西欧历史上为西班牙舰队全部出动征英的前一年；而在中国，这平平淡淡的一年中，发生了若干为历史学家所易于忽视的事件。这些事件，... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/1041482/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/3239549/" onclick="moreurl(this,{i:'4',query:'',subject_id:'3239549',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s3455551.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/3239549/" onclick="moreurl(this,{i:'4',query:'',subject_id:'3239549',from:'book_subject_search'})" title="夹边沟记事">
+
+    夹边沟记事
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  杨显惠 / 花城出版社 / 2008-09 / 34.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.2</span>
+<span class="pl">
+        (14722人评价)
+    </span>
+</div>
+<p>这是一段尘封四十年的历史，当年的幸存者散落在各个角落，没有人问过他们到底发生了什么，当年的死难者早已化为白骨，连他们的后代也不知道埋在何处。幸亏杨显惠这位有... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/3239549/buylinks">
+        纸质版 28.90 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1003479/" onclick="moreurl(this,{i:'5',query:'',subject_id:'1003479',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s1319205.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1003479/" onclick="moreurl(this,{i:'5',query:'',subject_id:'1003479',from:'book_subject_search'})" title="中国历代政治得失">
+
+    中国历代政治得失
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  钱穆 / 生活·读书·新知三联书店 / 2001 / 12.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.1</span>
+<span class="pl">
+        (23310人评价)
+    </span>
+</div>
+<p>《中国历代政治得失》为作者的专题演讲合集，分别就中国汉、唐、宋、明、清五代的政府组织、百官职权、考试监察、财经赋税、兵役义务等种种政治制度作了提要勾玄的概观... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26957760/" onclick="moreurl(this,{i:'6',query:'',subject_id:'26957760',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s29331058.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26957760/" onclick="moreurl(this,{i:'6',query:'',subject_id:'26957760',from:'book_subject_search'})" title="世界的凛冬">
+
+    世界的凛冬
+
+
+
+      <span style="font-size:12px;"> : 世纪三部曲 2 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  [英] 肯·福莱特 / 陈杰 / 江苏凤凰文艺出版社 / 2017-3-1 / 132.00（全三册）
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.0</span>
+<span class="pl">
+        (9934人评价)
+    </span>
+</div>
+<p>我亲眼目睹，每一个迈向死亡的生命都在热烈地生长。
+全球读者平均3个通宵读完的超级小说《巨人的陨落》的续篇！
+火遍全球的20世纪人类史诗“世纪三部曲”第二部。... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/26957760/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/31842175/?dcs=tag-buylink&amp;dcm=douban&amp;dct=26957760" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1813841/" onclick="moreurl(this,{i:'7',query:'',subject_id:'1813841',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s1738643.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1813841/" onclick="moreurl(this,{i:'7',query:'',subject_id:'1813841',from:'book_subject_search'})" title="枪炮、病菌与钢铁">
+
+    枪炮、病菌与钢铁
+
+
+
+      <span style="font-size:12px;"> : 人类社会的命运 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  [美] 贾雷德·戴蒙德 / 谢延光 / 上海世纪出版集团 / 2006-4-1 / 45.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.8</span>
+<span class="pl">
+        (14098人评价)
+    </span>
+</div>
+<p>为什么是欧亚大陆人征服、赶走或大批杀死印第安人、澳大利亚人和非洲人，而不是相反？为什么么小麦和玉米、牛和猪以及现代世界的其他一些“不了起的”作物和牲畜出现在... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/3930318/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/25809579/?dcs=tag-buylink&amp;dcm=douban&amp;dct=1813841" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/27021578/" onclick="moreurl(this,{i:'8',query:'',subject_id:'27021578',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s29427802.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/27021578/" onclick="moreurl(this,{i:'8',query:'',subject_id:'27021578',from:'book_subject_search'})" title="大国的崩溃">
+
+    大国的崩溃
+
+
+
+      <span style="font-size:12px;"> : 苏联解体的台前幕后 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  [美] 沙希利·浦洛基 / 宋虹 / 四川人民出版社 天地出版社 / 2017-5-1 / 58.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.4</span>
+<span class="pl">
+        (480人评价)
+    </span>
+</div>
+<p>1991年苏联的解体无疑是20世纪发生的最重大的事件之一。作者根据最近解密的老布什总统图书馆的绝密档案，包括总统顾问的备忘录和老布什与世界各国领导人的绝密电... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/27021578/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/35565703/?dcs=tag-buylink&amp;dcm=douban&amp;dct=27021578" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/27000152/" onclick="moreurl(this,{i:'9',query:'',subject_id:'27000152',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s29405015.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/27000152/" onclick="moreurl(this,{i:'9',query:'',subject_id:'27000152',from:'book_subject_search'})" title="海洋与文明">
+
+    海洋与文明
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [美] 林肯·佩恩 / 陈建军、罗燚英 / 后浪丨天津人民出版社 / 2017-4 / 128.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.8</span>
+<span class="pl">
+        (326人评价)
+    </span>
+</div>
+<p>一部海洋视角的世界史，一部关于航海者的史诗
+本书荣获美国《选择》杂志2014年度“杰出学术著作奖”
+………………
+※媒体推荐※
+尽管地球表面的70%都被水覆... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/27000152/buylinks">
+        纸质版 80.80 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/27026379/" onclick="moreurl(this,{i:'10',query:'',subject_id:'27026379',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s29474831.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/27026379/" onclick="moreurl(this,{i:'10',query:'',subject_id:'27026379',from:'book_subject_search'})" title="黎明破晓的世界">
+
+    黎明破晓的世界
+
+
+
+      <span style="font-size:12px;"> : 中世纪思潮与文艺复兴 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  [美] 威廉·曼彻斯特 / 张晓璐、罗志强 / 悦读名品 | 化学工业出版社 / 2017-5 / 98.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.0</span>
+<span class="pl">
+        (524人评价)
+    </span>
+</div>
+<p>【编辑推荐】
+.
+★《光荣与梦想》作者、美国著名通俗历史学家 威廉·曼彻斯特
+唯一一部关于中世纪历史之有力著作
+.
+★美国国家畅销书
+《纽约时报》畅销书
+彭... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/27026379/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/44251597/?dcs=tag-buylink&amp;dcm=douban&amp;dct=27026379" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/10471333/" onclick="moreurl(this,{i:'11',query:'',subject_id:'10471333',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s9015481.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/10471333/" onclick="moreurl(this,{i:'11',query:'',subject_id:'10471333',from:'book_subject_search'})" title="叫魂">
+
+    叫魂
+
+
+
+      <span style="font-size:12px;"> : 1768年中国妖术大恐慌 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  [美] 孔飞力 / 陈兼、刘昶 / 生活·读书·新知三联书店 上海三联书店 / 2012-5 / 38.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.0</span>
+<span class="pl">
+        (7904人评价)
+    </span>
+</div>
+<p>《叫魂:1768年中国妖术大恐慌》中在中国的千年帝制时代，清高宗弘历可谓是空前绝后的一人，然而在乾隆盛世达到登峰造极的时候，整个大清的政治与社会生活却被一股... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/10471333/buylinks">
+        纸质版 28.50 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1046492/" onclick="moreurl(this,{i:'12',query:'',subject_id:'1046492',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s23922774.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1046492/" onclick="moreurl(this,{i:'12',query:'',subject_id:'1046492',from:'book_subject_search'})" title="國史大綱（上下）">
+
+    國史大綱（上下）
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  錢穆 / 商務印書館 / 2013-8 / 76.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.3</span>
+<span class="pl">
+        (9661人评价)
+    </span>
+</div>
+<p>這是一部中國通史，因用大學教科書體例寫成，不得不力求簡要，僅舉大納，刪其瑣節。內容於學術思想，政治制度，社會風氣，國際形勢，兼有顧及，惟但求其通為一體，明其... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/1046492/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/3674537/" onclick="moreurl(this,{i:'13',query:'',subject_id:'3674537',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s3792001.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/3674537/" onclick="moreurl(this,{i:'13',query:'',subject_id:'3674537',from:'book_subject_search'})" title="明朝那些事儿（1-9）">
+
+    明朝那些事儿（1-9）
+
+
+
+      <span style="font-size:12px;"> : 限量版 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  当年明月 / 中国海关出版社 / 2009-4 / 358.20元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.1</span>
+<span class="pl">
+        (37428人评价)
+    </span>
+</div>
+<p>《明朝那些事儿》讲述从1344年到1644年，明朝三百年间的历史。作品以史料为基础，以年代和具体人物为主线，运用小说的笔法，对明朝十七帝和其他王公权贵和小人... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26816981/" onclick="moreurl(this,{i:'14',query:'',subject_id:'26816981',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s28811898.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26816981/" onclick="moreurl(this,{i:'14',query:'',subject_id:'26816981',from:'book_subject_search'})" title="十二幅地图中的世界史">
+
+    十二幅地图中的世界史
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [英] 杰里·布罗顿（Jerry Brotton） / 林盛 / 浙江人民出版社 / 2016-6-1 / 99.80元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.7</span>
+<span class="pl">
+        (637人评价)
+    </span>
+</div>
+<p>【BBC纪录片】地图：权力 掠夺和占有
+地图专家、《十二幅地图中的世界史》作者杰里·布罗顿（Jerry Brotton）教授向我们揭示地图的奥秘——地图是如... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/26816981/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1675478/" onclick="moreurl(this,{i:'15',query:'',subject_id:'1675478',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s1681072.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1675478/" onclick="moreurl(this,{i:'15',query:'',subject_id:'1675478',from:'book_subject_search'})" title="天朝的崩溃">
+
+    天朝的崩溃
+
+
+
+      <span style="font-size:12px;"> : 鸦片战争再研究 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  茅海建 / 生活·读书·新知三联书店 / 2005-7 / 32.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.0</span>
+<span class="pl">
+        (6563人评价)
+    </span>
+</div>
+<p>《天朝的崩溃》是作者系统研究鸦片战争十余年所得的成果。作者详尽考订了与战争相关的一系列重要史实，力图以当时的道德观念、思维方式与行为规范去理解历史，使许多在... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1873231/" onclick="moreurl(this,{i:'16',query:'',subject_id:'1873231',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s1872653.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1873231/" onclick="moreurl(this,{i:'16',query:'',subject_id:'1873231',from:'book_subject_search'})" title="明朝那些事儿（壹）">
+
+    明朝那些事儿（壹）
+
+
+
+      <span style="font-size:12px;"> : 洪武大帝 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  当年明月 / 中国友谊出版公司 / 2006-9 / 24.80
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.7</span>
+<span class="pl">
+        (84552人评价)
+    </span>
+</div>
+<p>从朱元璋的出身开始写起，到永乐大帝夺位的靖难之役结束为止。叙述了明朝最艰苦卓绝的开国过程。朱元璋pk陈友谅，谁堪问鼎天下？战太平、太湖大决战。卧榻之侧埋恶虎... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/1873231/buylinks">
+        纸质版 14.10 元起
+      </a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/25746578/" onclick="moreurl(this,{i:'17',query:'',subject_id:'25746578',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s27181999.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/25746578/" onclick="moreurl(this,{i:'17',query:'',subject_id:'25746578',from:'book_subject_search'})" title="大英博物馆世界简史（全3册）">
+
+    大英博物馆世界简史（全3册）
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  [英] 尼尔·麦格雷戈 / 余燕 / 新星出版社 / 2014-1 / 108.00元
+
+      </div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.2</span>
+<span class="pl">
+        (1877人评价)
+    </span>
+</div>
+<p>◎ 从大英博物馆800万件馆藏中精选100件藏品 / 讲述人类200万年历史
+◎ 大英博物馆、英国国家广播公司（BBC） 联手打造
+◎ 大英博物馆馆长尼尔•... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/25746578/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1077847/" onclick="moreurl(this,{i:'18',query:'',subject_id:'1077847',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/mpic/s1953384.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1077847/" onclick="moreurl(this,{i:'18',query:'',subject_id:'1077847',from:'book_subject_search'})" title="史记（全十册）">
+
+    史记（全十册）
+
+
+
+
+  </a>
+</h2>
+<div class="pub">
+
+
+  司马迁 / （索引）司马贞，（正义）张守节 / 中华书局 / 1982-11 / 125.00
+
+      </div>
+<div class="star clearfix">
+<span class="allstar50"></span>
+<span class="rating_nums">9.5</span>
+<span class="pl">
+        (12779人评价)
+    </span>
+</div>
+<p>史记是我国第一部通史。在史记之前，有以年代为次的“编年史”如春秋，有以地域为限的“国别史”如国语、战国策，有以文告档卷形式保存下来的“政治史”如尚书，可是没... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/1024528/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+</div>
+</div>
+</li>, <li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26853835/" onclick="moreurl(this,{i:'19',query:'',subject_id:'26853835',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/mpic/s29017929.jpg" width="90"/>
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26853835/" onclick="moreurl(this,{i:'19',query:'',subject_id:'26853835',from:'book_subject_search'})" title="丝绸之路">
+
+    丝绸之路
+
+
+
+      <span style="font-size:12px;"> : 一部全新的世界史 </span>
+</a>
+</h2>
+<div class="pub">
+
+
+  [英] 彼得·弗兰科潘 / 邵旭东、孙芳 / 浙江大学出版社 / 2016-10-1 / CNY 128.00
+
+      </div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">8.3</span>
+<span class="pl">
+        (3194人评价)
+    </span>
+</div>
+<p>【内容简介】
+·
+两千年来，丝绸之路始终主宰着人类文明的进程。不同种族、不同信仰、不同文化背景的帝王、军队、商人、学者、僧侣、奴隶，往来在这条道路上，创造并... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/26853835/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+<div class="ebook-link">
+<a href="https://read.douban.com/ebook/25352518/?dcs=tag-buylink&amp;dcm=douban&amp;dct=26853835" target="_blank">去看电子版</a>
+</div>
+</div>
+</div>
+</li>]
+******************
+ A brief history of humankind
+******************
+人类简史
+{"msgCode":"1","isSuccess":"true"}
+******************
+ Fall of Giants
+******************
+巨人的陨落
+{"msgCode":"1","isSuccess":"true"}
+******************
+ Время секонд хэнд
+******************
+二手时间
+{"msgCode":"1","isSuccess":"true"}
+万历十五年
+{"msgCode":"1","isSuccess":"true"}
+夹边沟记事
+{"msgCode":"1","isSuccess":"true"}
+None
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 145, in book_detail
+    if "译者" in item[0]:
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 23, in parser_data
+    if len(str(data).split("-")) > 2:
+IndexError: list index out of range
+******************
+ Winter of the World
+******************
+世界的凛冬
+{"msgCode":"1","isSuccess":"true"}
+******************
+ Guns, Germs and Steel: The Fates of Human Societies
+******************
+枪炮、病菌与钢铁
+{"msgCode":"1","isSuccess":"true"}
+None
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 133, in book_detail
+    #print("book detail info as follow!")
+AttributeError: 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 133, in book_detail
+    #print("book detail info as follow!")
+AttributeError: 'NoneType' object has no attribute 'text'
+None
+******************
+ A World Lit Only by Fire: The Medieval Mind and the Renaissance: Portrait of an Age
+******************
+黎明破晓的世界
+{"msgCode":"1","isSuccess":"true"}
+******************
+ Soulstealers: The Chinese Sorcery Scare of 1768
+******************
+叫魂
+{"msgCode":"1","isSuccess":"true"}
+國史大綱（上下）
+{"msgCode":"1","isSuccess":"true"}
+明朝那些事儿（1-9）
+None
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 45, in make_req
+    "catalogintro": payload["book_current_class"],
+KeyError: 'book_page_count'
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 133, in book_detail
+    #print("book detail info as follow!")
+AttributeError: 'NoneType' object has no attribute 'text'
+None
+天朝的崩溃
+{"msgCode":"1","isSuccess":"true"}
+明朝那些事儿（壹）
+{"msgCode":"1","isSuccess":"true"}
+******************
+ A History of the World in 100 Objects
+******************
+大英博物馆世界简史（全3册）
+{"msgCode":"1","isSuccess":"true"}
+史记（全十册）
+{"msgCode":"1","isSuccess":"true"}
+******************
+ The Silk Roads: A New History of the World
+******************
+丝绸之路
+{"msgCode":"1","isSuccess":"true"}
+None
+Traceback (most recent call last):
+  File "D:\Program Files\Python\Python36\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 385, in _make_request
+    httplib_response = conn.getresponse(buffering=True)
+TypeError: getresponse() got an unexpected keyword argument 'buffering'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Program Files\Python\Python36\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 387, in _make_request
+    httplib_response = conn.getresponse()
+  File "D:\Program Files\Python\Python36\lib\http\client.py", line 1331, in getresponse
+    response.begin()
+  File "D:\Program Files\Python\Python36\lib\http\client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "D:\Program Files\Python\Python36\lib\http\client.py", line 258, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "D:\Program Files\Python\Python36\lib\socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+  File "D:\Program Files\Python\Python36\lib\ssl.py", line 1009, in recv_into
+    return self.read(nbytes, buffer)
+  File "D:\Program Files\Python\Python36\lib\ssl.py", line 871, in read
+    return self._sslobj.read(len, buffer)
+  File "D:\Program Files\Python\Python36\lib\ssl.py", line 631, in read
+    v = self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Program Files\Python\Python36\lib\site-packages\requests\adapters.py", line 403, in send
+    timeout=timeout
+  File "D:\Program Files\Python\Python36\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 623, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "D:\Program Files\Python\Python36\lib\site-packages\requests\packages\urllib3\util\retry.py", line 255, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "D:\Program Files\Python\Python36\lib\site-packages\requests\packages\urllib3\packages\six.py", line 310, in reraise
+    raise value
+  File "D:\Program Files\Python\Python36\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 578, in urlopen
+    chunked=chunked)
+  File "D:\Program Files\Python\Python36\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 389, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "D:\Program Files\Python\Python36\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 314, in _raise_timeout
+    raise ReadTimeoutError(self, url, "Read timed out. (read timeout=%s)" % timeout_value)
+requests.packages.urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='book.douban.com', port=443): Read timed out. (read timeout=30)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:/WorkSpace/Jupyter/Solr/douban_book_spider.py", line 174, in book_list
+    for tag in tag_list:
+  File "D:\Program Files\Python\Python36\lib\site-packages\requests\api.py", line 71, in get
+    return request('get', url, params=params, **kwargs)
+  File "D:\Program Files\Python\Python36\lib\site-packages\requests\api.py", line 57, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Program Files\Python\Python36\lib\site-packages\requests\sessions.py", line 475, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Program Files\Python\Python36\lib\site-packages\requests\sessions.py", line 585, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Program Files\Python\Python36\lib\site-packages\requests\adapters.py", line 479, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='book.douban.com', port=443): Read timed out. (read timeout=30)
+
+Process finished with exit code 0
