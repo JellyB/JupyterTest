@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 
 def get_all_tags_first_link():
     tag_list = []
-    html = requests.get('http://www.meizitu.com')
+    html = requests.get('http://www.mzitu.com')
     html.encoding = 'gbk'
     bsoup = BeautifulSoup(
         html.text.strip().replace(
